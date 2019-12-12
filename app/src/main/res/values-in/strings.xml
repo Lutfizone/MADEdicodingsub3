@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">DoMovieUIUX</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_trailer">Trailer</string>
+
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv">Acara Tv</string>
+
+    <string name="ganti_bahasa">Ganti Bahasa</string>
+    <string name="exit">Keluar</string>
+
+    <string name="director">Sutradara : </string>
+    <string name="creator">Kreator : </string>
+    <string name="cast">Pemeran : </string>
+    <string name="sinopsis">Sinopsis : </string>
+
+    <string-array name="title_movie">
+        <!--A Star is Born-->
+        <item>A Star is Born</item>
+        <!--Alita-->
+        <item>Alita: Battle Angel</item>
+        <!--Aquaman-->
+        <item>Aquaman</item>
+        <!--Bohemian-->
+        <item>Bohemian Rhapsody</item>
+        <!--Cold pursit-->
+        <item>Cold Pursuit</item>
+        <!--Creed-->
+        <item>Creed II </item>
+        <!--Crimes-->
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <!--Glass-->
+        <item>Glass </item>
+        <!--How to Train-->
+        <item>How to Train Your Dragon: The Hidden World </item>
+        <!--Invinity War-->
+        <item>Avengers: Infinity War</item>
+        <!--Marry Queen-->
+        <item>Mary Queen of Scots</item>
+        <!--Master Z-->
+        <item>Master Z: Ip Man Legacy</item>
+        <!--Mortal Engines-->
+        <item>Mortal Engines</item>
+        <!--Overlord-->
+        <item>Overlord </item>
+        <!--Ralph-->
+        <item>Ralph Breaks the Internet</item>
+        <!--Roobin Hood-->
+        <item>Robin Hood</item>
+        <!--Serenity-->
+        <item>Serenity </item>
+        <!--Spiderman-->
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <!--T34-->
+        <item>T-34 </item>
+    </string-array>
+
+    <string-array name="title_tv">
+        <!--Arrow-->
+        <item>Arrow </item>
+        <!--Doom Patrol-->
+        <item>Doom Patrol</item>
+        <!--Dragon Ball-->
+        <item>Dragon Ball </item>
+        <!--Fairytail-->
+        <item>Fairy Tail</item>
+        <!--Family Guy-->
+        <item>Family Guy</item>
+        <!--Flash-->
+        <item>The Flash </item>
+        <!--God-->
+        <item>Game of Thrones</item>
+        <!--Gotham-->
+        <item>Gotham </item>
+        <!--Grey Anatomy-->
+        <item>Grey`s Anatomy</item>
+        <!--Hanna-->
+        <item>Hanna </item>
+        <!--Iron Fist-->
+        <item>Iron Fist</item>
+        <!--Naruto Shipuden-->
+        <item>Naruto: Shippûden</item>
+        <!--NCIS-->
+        <item>NCIS</item>
+        <!--Riverdale-->
+        <item>Riverdale </item>
+        <!--Shameless-->
+        <item>Shameless </item>
+        <!--Supergirl-->
+        <item>Supergirl </item>
+        <!--Supernatural-->
+        <item>Supernatural </item>
+        <!--The Simpson-->
+        <item>The Simpsons</item>
+        <!--The Umbrella-->
+        <item>The Umbrella Academy</item>
+        <!--The Walking Dead-->
+        <item>The Walking Dead </item>
+    </string-array>
+
+    <string-array name="director_movie">
+        <!--A Star is Born-->
+        <item>Bradley Cooper</item>
+        <!--Alita-->
+        <item>Robert Rodriguez</item>
+        <!--Aquaman-->
+        <item>James Wan</item>
+        <!--Bohemian-->
+        <item>Bryan Singer</item>
+        <!--Cold pursit-->
+        <item>Hans Petter Moland</item>
+        <!--Creed-->
+        <item>Steven Caple Jr.</item>
+        <!--Crimes-->
+        <item>David Yates</item>
+        <!--Glass-->
+        <item>M. Night Shyamalan</item>
+        <!--How to Train-->
+        <item>Dean DeBlois</item>
+        <!--Invinity War-->
+        <item>Anthony Russo, Joe Russo</item>
+        <!--Marry Queen-->
+        <item>Josie Rourke</item>
+        <!--Master Z-->
+        <item>Woo-Ping Yuen</item>
+        <!--Mortal Engines-->
+        <item>Christian Rivers</item>
+        <!--Overlord-->
+        <item>Julius Avery</item>
+        <!--Ralph-->
+        <item>Phil Johnston, Rich Moore</item>
+        <!--Roobin Hood-->
+        <item>Phil Johnston, Rich Moore</item>
+        <!--Serenity-->
+        <item>Steven Knight</item>
+        <!--Spiderman-->
+        <item>Bob Persichetti</item>
+        <!--T34-->
+        <item>Aleksey Sidorov</item>
+    </string-array>
+
+    <string-array name="director_tv">
+        <!--Arrow-->
+        <item>Greg Berlanti, Marc Guggenheim, Andrew Kreisberg</item>
+        <!--Doom Patrol-->
+        <item>Jeremy Carver</item>
+        <!--Dragon Ball-->
+        <item>Akira Toriyama</item>
+        <!--Fairytail-->
+        <item>Hiro Mashima, Masashi Sogo</item>
+        <!--Family Guy-->
+        <item>Seth MacFarlane, David Zuckerman</item>
+        <!--Flash-->
+        <item>Greg Berlanti, Geoff Johns, Andrew Kreisberg</item>
+        <!--God-->
+        <item>David Benioff, D.B. Weiss</item>
+        <!--Gotham-->
+        <item>Bruno Heller</item>
+        <!--Grey Anatomy-->
+        <item>Shonda Rhimes</item>
+        <!--Hanna-->
+        <item>David Farr</item>
+        <!--Iron Fist-->
+        <item>Scott Buck</item>
+        <!--Naruto Shipuden-->
+        <item>Masashi Kishimoto</item>
+        <!--NCIS-->
+        <item>Donald P. Bellisario, Don McGill</item>
+        <!--Riverdale-->
+        <item>Roberto Aguirre-Sacasa</item>
+        <!--Shameless-->
+        <item>Paul Abbott, John Wells</item>
+        <!--Supergirl-->
+        <item>Ali Adler, Greg Berlanti, Andrew Kreisberg</item>
+        <!--Supernatural-->
+        <item>Eric Kripke</item>
+        <!--The Simpson-->
+        <item>James L. Brooks, Matt Groening, Sam Simon</item>
+        <!--The Umbrella-->
+        <item>Jeremy Slater</item>
+        <!--The Walking Dead-->
+        <item>Frank Darabont, Angela Kang</item>
+    </string-array>
+
+    <string-array name="cast_movie">
+        <!--A Star is Born-->
+        <item>Lady Gaga, Bradley Cooper, Sam Elliott</item>
+        <!--Alita-->
+        <item>Rosa Salazar, Christoph Waltz, Jennifer Connelly</item>
+        <!--Aquaman-->
+        <item>Jason Momoa, Amber Heard, Willem Dafoe</item>
+        <!--Bohemian-->
+        <item>Rami Malek, Lucy Boynton, Gwilym Lee</item>
+        <!--Cold pursit-->
+        <item>Liam Neeson, Laura Dern, Micheál Richardson</item>
+        <!--Creed-->
+        <item>Michael B. Jordan, Sylvester Stallone, Tessa Thompson </item>
+        <!--Crimes-->
+        <item>Eddie Redmayne, Katherine Waterston, Dan Fogler</item>
+        <!--Glass-->
+        <item>James McAvoy, Bruce Willis, Samuel L. Jackson</item>
+        <!--How to Train-->
+        <item>Jay Baruchel, America Ferrera, F. Murray Abraham</item>
+        <!--Invinity War-->
+        <item>Robert Downey Jr., Chris Hemsworth, Mark Ruffalo </item>
+        <!--Marry Queen-->
+        <item>Saoirse Ronan, Margot Robbie, Jack Lowden</item>
+        <!--Master Z-->
+        <item>Jin Zhang, Dave Bautista, Michelle Yeoh</item>
+        <!--Mortal Engines-->
+        <item>Hera Hilmar, Robert Sheehan, Hugo Weaving </item>
+        <!--Overlord-->
+        <item>Jovan Adepo, Wyatt Russell, Mathilde Ollivier </item>
+        <!--Ralph-->
+        <item>John C. Reilly, Sarah Silverman, Gal Gadot </item>
+        <!--Roobin Hood-->
+        <item>Taron Egerton, Jamie Foxx, Ben Mendelsohn</item>
+        <!--Serenity-->
+        <item>Matthew McConaughey, Anne Hathaway, Diane Lane</item>
+        <!--Spiderman-->
+        <item>Shameik Moore, Jake Johnson, Hailee Steinfeld </item>
+        <!--T34-->
+        <item>Alexander Petrov, Irina Starshenbaum, Viktor Dobronravov</item>
+    </string-array>
+
+    <string-array name="cast_tv">
+        <!--Arrow-->
+        <item>Stephen Amell, Katie Cassidy, David Ramsey</item>
+        <!--Doom Patrol-->
+        <item>Diane Guerrero, April Bowlby, Alan Tudyk</item>
+        <!--Dragon Ball-->
+        <item>Brice Armstrong, Steve Olson, Stephanie Nadolny</item>
+        <!--Fairytail-->
+        <item>Todd Haberkorn, Cherami Leigh, Tia Lynn Ballard</item>
+        <!--Family Guy-->
+        <item>Seth MacFarlane, Alex Borstein, Seth Green</item>
+        <!--Flash-->
+        <item>Grant Gustin, Candice Patton, Danielle Panabaker</item>
+        <!--God-->
+        <item> Emilia Clarke, Peter Dinklage, Kit Haringto</item>
+        <!--Gotham-->
+        <item> Ben McKenzie, Jada Pinkett Smith, Donal Logue</item>
+        <!--Grey Anatomy-->
+        <item> Justin Chambers, Ellen Pompeo, Chandra Wilson</item>
+        <!--Hanna-->
+        <item> Esme Creed-Miles, Mireille Enos, Joel Kinnaman</item>
+        <!--Iron Fist-->
+        <item> Finn Jones, Jessica Henwick, Jessica Stroup</item>
+        <!--Naruto Shipuden-->
+        <item>Junko Takeuchi, Maile Flanagan, Chie Nakamura</item>
+        <!--NCIS-->
+        <item> Mark Harmon, David McCallum, Sean Murray</item>
+        <!--Riverdale-->
+        <item>K.J. Apa, Lili Reinhart, Camila Mendes </item>
+        <!--Shameless-->
+        <item>Emmy Rossum, William H. Macy, Ethan Cutkosky</item>
+        <!--Supergirl-->
+        <item>Melissa Benoist, Mehcad Brooks, Chyler Leigh</item>
+        <!--Supernatural-->
+        <item> Jared Padalecki, Jensen Ackles, Jim Beaver</item>
+        <!--The Simpson-->
+        <item>Dan Castellaneta, Nancy Cartwright, Harry Shearer</item>
+        <!--The Umbrella-->
+        <item>Ellen Page, Tom Hopper, David Castañeda</item>
+        <!--The Walking Dead-->
+        <item>Andrew Lincoln, Norman Reedus, Melissa McBride</item>
+    </string-array>
+
+    <string-array name="genre_movie">
+        <!--A Star is Born-->
+        <item>Drama, Music, Romance</item>
+        <!--Alita-->
+        <item>Action, Adventure, Sci-Fi</item>
+        <!--Aquaman-->
+        <item>Action, Adventure, Fantasy</item>
+        <!--Bohemian-->
+        <item>Biography, Drama, Music </item>
+        <!--Cold pursit-->
+        <item>Action, Crime, Drama</item>
+        <!--Creed-->
+        <item>Drama, Sport</item>
+        <!--Crimes-->
+        <item>Adventure, Family, Fantasy</item>
+        <!--Glass-->
+        <item> Drama, Sci-Fi, Thriller</item>
+        <!--How to Train-->
+        <item> Animation, Action, Adventure</item>
+        <!--Invinity War-->
+        <item>Action, Adventure, Sci-Fi </item>
+        <!--Marry Queen-->
+        <item>Biography, Drama, History</item>
+        <!--Master Z-->
+        <item>Action, Crime</item>
+        <!--Mortal Engines-->
+        <item>Action, Adventure, Fantasy</item>
+        <!--Overlord-->
+        <item>Action, Adventure, Horror</item>
+        <!--Ralph-->
+        <item> Animation, Adventure, Comedy</item>
+        <!--Roobin Hood-->
+        <item> Action, Adventure, Thriller </item>
+        <!--Serenity-->
+        <item>Drama, Mystery, Sci-Fi </item>
+        <!--Spiderman-->
+        <item>Animation, Action, Adventure</item>
+        <!--T34-->
+        <item> Action, War</item>
+    </string-array>
+
+    <string-array name="genre_tv">
+        <item> Aksi, Petualangan, Kejahatan </item>
+        <item> Aksi, Petualangan, Komedi </item>
+        <item> Animasi, Aksi, Petualangan </item>
+        <item> Animasi, Aksi, Petualangan </item>
+        <item> Animasi, Komedi </item>
+        <item> Aksi, Petualangan, Drama </item>
+        <item> Aksi, Petualangan, Drama </item>
+        <item> Aksi, Kejahatan, Drama </item>
+        <item> Drama, Roman </item>
+        <item> Aksi, Drama </item>
+        <item> Aksi, Petualangan, Kejahatan </item>
+        <item> Animasi, Aksi, Petualangan </item>
+        <item> Aksi, Kejahatan, Drama </item>
+        <item> Kejahatan, Drama, Misteri </item>
+        <item> Komedi, Drama </item>
+        <item> Aksi, Petualangan, Drama </item>
+        <item> Drama, Fantasi, Horor </item>
+        <item> Animasi, Komedi </item>
+        <item> Aksi, Petualangan, Komedi </item>
+        <item> Drama, Horor, Thriller </item>
+    </string-array>
+
+    <string-array name="duration_movie">
+        <!--A Star is Born-->
+        <item>2j 16m</item>
+        <!--Alita-->
+        <item>2j 2m</item>
+        <!--Aquaman-->
+        <item> 2j 23m </item>
+        <!--Bohemian-->
+        <item>2j 14m</item>
+        <!--Cold pursit-->
+        <item> 1j 59m</item>
+        <!--Creed-->
+        <item>2j 10m</item>
+        <!--Crimes-->
+        <item>2j 14m</item>
+        <!--Glass-->
+        <item>2j 9m</item>
+        <!--How to Train-->
+        <item> 1j 44m</item>
+        <!--Invinity War-->
+        <item>2j 29m</item>
+        <!--Marry Queen-->
+        <item> 2j 4m </item>
+        <!--Master Z-->
+        <item>1j 47m</item>
+        <!--Mortal Engines-->
+        <item>2j 8m</item>
+        <!--Overlord-->
+        <item>1j 50m</item>
+        <!--Ralph-->
+        <item>1j 52m</item>
+        <!--Roobin Hood-->
+        <item>1j 56m</item>
+        <!--Serenity-->
+        <item>1j 46m</item>
+        <!--Spiderman-->
+        <item>1j 57m</item>
+        <!--T34-->
+        <item>2j 19men</item>
+    </string-array>
+
+    <string-array name="release_date_movie">
+        <item> 5 Oktober 2018 (AS) </item>
+        <item> 14 Februari 2019 (AS) </item>
+        <item> 21 Desember 2018 (AS) </item>
+        <item> 2 November 2018 (AS) </item>
+        <item> 8 Februari 2019 (AS) </item>
+        <item> 21 November 2018 (AS) </item>
+        <item> 16 November 2018 (AS) </item>
+        <item> 18 Januari 2019 (AS) </item>
+        <item> 22 Februari 2019 (AS) </item>
+        <item> 27 April 2018 (AS) </item>
+        <item> 21 Desember 2018 (AS) </item>
+        <item> 12 April 2019 (AS) </item>
+        <item> 14 Desember 2018 (AS) </item>
+        <item> 9 November 2018 (AS) </item>
+        <item> 21 November 2018 (AS) </item>
+        <item> 21 November 2018 (AS) </item>
+        <item> 25 Januari 2019 (AS) </item>
+        <item> 14 Desember 2018 (AS) </item>
+        <item> 27 Desember 2018 (Rusia) </item>
+    </string-array>
+
+    <string-array name="release_date_tv">
+        <!--Arrow-->
+        <item>TV Series (2012– )</item>
+        <!--Doom Patrol-->
+        <item> TV Series (2019– ) </item>
+        <!--Dragon Ball-->
+        <item>TV Series (1986–2003)</item>
+        <!--Fairytail-->
+        <item>TV Series (2009– ) </item>
+        <!--Family Guy-->
+        <item>TV Series (1999– )</item>
+        <!--Flash-->
+        <item>TV Series (2014– )</item>
+        <!--God-->
+        <item> TV Series (2011–2019)</item>
+        <!--Gotham-->
+        <item>TV Series (2014–2019)</item>
+        <!--Grey Anatomy-->
+        <item> TV Series (2005– )</item>
+        <!--Hanna-->
+        <item> TV Series (2019– ) </item>
+        <!--Iron Fist-->
+        <item>TV Series (2017–2018) </item>
+        <!--Naruto Shipuden-->
+        <item> TV Series (2007–2017) </item>
+        <!--NCIS-->
+        <item>TV Series (2003– ) </item>
+        <!--Riverdale-->
+        <item>TV Series (2017– )</item>
+        <!--Shameless-->
+        <item> TV Series (2011– ) </item>
+        <!--Supergirl-->
+        <item>TV Series (2015– )</item>
+        <!--Supernatural-->
+        <item>TV Series (2005– ) </item>
+        <!--The Simpson-->
+        <item>TV Series (1989– )</item>
+        <!--The Umbrella-->
+        <item> TV Series (2019– ) </item>
+        <!--The Walking Dead-->
+        <item> TV Series (2010– ) </item>
+    </string-array>
+
+    <string-array name="rating_movie">
+        <!--A Star is Born-->
+        <item>7.7</item>
+        <!--Alita-->
+        <item>7.5</item>
+        <!--Aquaman-->
+        <item>7.1</item>
+        <!--Bohemian-->
+        <item>8.0</item>
+        <!--Cold pursit-->
+        <item>6.2</item>
+        <!--Creed-->
+        <item>7.2</item>
+        <!--Crimes-->
+        <item>6.6</item>
+        <!--Glass-->
+        <item>6.7</item>
+        <!--How to Train-->
+        <item>7.6</item>
+        <!--Invinity War-->
+        <item>8.5</item>
+        <!--Marry Queen-->
+        <item>6.3</item>
+        <!--Master Z-->
+        <item>6.5</item>
+        <!--Mortal Engines-->
+        <item>6.1</item>
+        <!--Overlord-->
+        <item>6.7</item>
+        <!--Ralph-->
+        <item>7.1</item>
+        <!--Roobin Hood-->
+        <item>5.3</item>
+        <!--Serenity-->
+        <item>5.3</item>
+        <!--Spiderman-->
+        <item>8.5</item>
+        <!--T34-->
+        <item>6.3</item>
+    </string-array>
+
+    <string-array name="rating_tv">
+        <!--Arrow-->
+        <item>7.6</item>
+        <!--Doom Patrol-->
+        <item>8.2</item>
+        <!--Dragon Ball-->
+        <item>8.5</item>
+        <!--Fairytail-->
+        <item>8.1</item>
+        <!--Family Guy-->
+        <item>8.2</item>
+        <!--Flash-->
+        <item>7.8</item>
+        <!--God-->
+        <item>9.4</item>
+        <!--Gotham-->
+        <item>7.9</item>
+        <!--Grey Anatomy-->
+        <item>7.6</item>
+        <!--Hanna-->
+        <item>7.6</item>
+        <!--Iron Fist-->
+        <item>6.6</item>
+        <!--Naruto Shipuden-->
+        <item>8.4</item>
+        <!--NCIS-->
+        <item>7.8</item>
+        <!--Riverdale-->
+        <item>7.3</item>
+        <!--Shameless-->
+        <item>8.7</item>
+        <!--Supergirl-->
+        <item>6.4</item>
+        <!--Supernatural-->
+        <item>8.5</item>
+        <!--The Simpson-->
+        <item>8.7</item>
+        <!--The Umbrella-->
+        <item>8.1</item>
+        <!--The Walking Dead-->
+        <item>8.3</item>
+    </string-array>
+
+    <string-array name="sinopsis_movie">
+        <item> Musisi berpengalaman Jackson Maine (Bradley Cooper) menemukan - dan jatuh cinta dengan artis yang sedang berjuang Ally (Gaga). Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi hubungan mereka hancur, karena Jack berjuang terus-menerus dengan iblis internalnya sendiri. </item>
+        <item> Alita adalah ciptaan dari zaman keputusasaan. Ditemukan oleh Dr. Ido yang misterius ketika sedang mencari bagian cyborg, Alita menjadi makhluk yang mematikan dan berbahaya. Dia tidak bisa mengingat siapa dia, atau dari mana dia berasal. Tetapi bagi Dr. Ido, kebenarannya terlalu jelas. Dia adalah satu-satunya makhluk yang dapat memutus siklus kematian dan kehancuran yang tertinggal dari Tiphares. Tetapi untuk mencapai tujuannya yang sebenarnya, dia harus berjuang dan membunuh. Dan di situlah signifikansi sejati Alita muncul. Dia adalah malaikat dari surga. Dia adalah malaikat maut. </item>
+        <item> Arthur Curry, setengah manusia dari Atlantis, melakukan perjalanan seumur hidup. Petualangan ini tidak hanya memaksanya untuk berdamai dengan identitas aslinya, tetapi juga memaksanya untuk menemukan apakah dia sepenuhnya layak memenuhi takdirnya sendiri: menjadi raja. </item>
+        <item> Bohemian Rhapsody adalah perayaan Queen, musik mereka dan penyanyi utama mereka yang luar biasa Freddie Mercury. Freddie menentang stereotip dan menghancurkan konvensi untuk menjadi salah satu penghibur paling dicintai di planet ini. Film ini melacak kebangkitan band melalui lagu-lagu ikonik dan suara revolusioner mereka. Mereka mencapai kesuksesan yang tak tertandingi, tetapi pada gilirannya yang tak terduga Freddie, dikelilingi oleh pengaruh yang lebih gelap, menghindar Queen dalam mengejar karir solonya. Setelah sangat menderita tanpa kolaborasi Ratu, Freddie berhasil bersatu kembali dengan teman-teman bandnya tepat waktu untuk Live Aid. Sementara dengan berani menghadapi diagnosis AIDS baru-baru ini, Freddie memimpin band di salah satu pertunjukan terbesar dalam sejarah musik rock. Queen semen warisan yang terus menginspirasi orang luar, pemimpi dan pecinta musik sampai hari ini. </item>
+        <item> Pria keluarga yang tenang dan sopir bajak salju yang rajin, Nels adalah darah kehidupan dari kota resor mewah di Pegunungan Rocky karena dialah yang menjaga jalan-jalan musim dingin tetap bersih. Dia dan istrinya tinggal di kabin yang nyaman, jauh dari para turis. Kota itu baru saja memberinya "Warga Negara Tahun Ini." Tetapi Nels harus meninggalkan kehidupan gunungnya yang tenang ketika putranya dibunuh oleh seorang raja obat bius yang kuat. Sebagai seorang pria yang tidak kehilangan apa-apa, ia terpacu oleh dorongan untuk membalas dendam. Pahlawan yang tidak biasa ini menggunakan keterampilan berburu dan mengubah dari manusia biasa menjadi pembunuh yang terampil saat ia berangkat untuk membongkar kartel. Tindakan Nels memicu perang wilayah antara seorang gangster yang tidak bisa ditebak secara maniak yang dikenal sebagai Viking dan bos geng saingannya. Keadilan disajikan dalam satu konfrontasi spektakuler terakhir yang akan membuat (hampir) tidak ada yang terluka. </item>
+        <item> Bertahun-tahun setelah Adonis Creed membuat nama untuk dirinya sendiri di bawah bimbingan Rocky Balboa, petinju muda itu menjadi Juara Kelas Berat Dunia. Sementara hidup baik dengan kemenangan itu dan pernikahannya dengan Bianca, masalah datang ke Philadelphia ketika Ivan Drago, petinju Rusia yang membunuh ayah Adonis, Apollo, datang bersama putranya, Viktor, untuk menantang Adonis. Terhadap saran Rocky, Adonis menerima tantangan tanpa partisipasi mentornya dan membayar harga dalam pertarungan hukuman yang ia menangkan hanya dengan teknik. Sekarang terluka dan kehilangan semangat, Adonis tidak bisa membawa dirinya kembali ke permainan, meninggalkan semangat dan gelarnya dalam bahaya. Bersama-sama, keluarga Adonis dan Rocky harus menemukan cara untuk menghidupkan kembali semangat juang Adonis untuk menghadapi masa depan dalam pilihan apa pun yang ia buat. Sementara itu, keluarga Drago memiliki masalah sendiri dalam mencoba mendapatkan kembali rasa hormat di tanah air mereka bahwa mereka kehilangan di tangan Rocky saat mereka bertanya-tanya apakah itu benar-benar layak. </item>
+        <item> Dalam upaya untuk menggagalkan rencana Grindelwald `s meningkatkan penyihir darah murni untuk memerintah semua makhluk non-magis, Albus Dumbledore mendaftar mantan siswanya Newt Scamander, yang setuju untuk membantu, meskipun dia tidak menyadari bahaya yang ada di depan. Garis ditarik saat cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia sihir yang semakin terpecah. </item>
+        <item> Setelah mengejar Kevin Wendell Crumb dan berbagai identitas yang ada di dalamnya. David Dunn menemukan dirinya terkunci di rumah sakit jiwa bersama musuh bebuyutannya, Elijah Price dan harus bersaing dengan seorang psikiater yang keluar untuk membuktikan ketiganya tidak benar-benar memiliki kemampuan manusia super. </item>
+        <item> Saat Hiccup memenuhi mimpinya menciptakan utopia naga yang damai, penemuan Toothless` dari pasangan yang liar dan sulit ditangkap membuat Night Fury menjauh. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka. </item>
+        <item> Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini, nasib Bumi dan keberadaan tidak pernah lebih tidak pasti. </item>
+        <item> Mary Queen of Scots mengeksplorasi kehidupan bergolak Mary Stuart yang karismatik. Ratu Prancis pada usia 16 tahun dan menjanda pada usia 18 tahun, Mary menentang tekanan untuk menikah kembali. Sebaliknya, ia kembali ke Skotlandia asalnya untuk merebut kembali tahtanya yang sah. Tetapi Skotlandia dan Inggris berada di bawah pemerintahan Elizabeth I. yang memaksa. Setiap Ratu muda memandangi "saudara perempuannya" dalam ketakutan dan kekaguman. Saingan dalam kekuasaan dan cinta, dan bupati perempuan di dunia maskulin, keduanya harus memutuskan bagaimana memainkan permainan pernikahan versus kemerdekaan. Bertekad untuk memerintah lebih dari sekadar boneka, Mary menegaskan klaimnya atas takhta Inggris, mengancam kedaulatan Elizabeth. Pengkhianatan, pemberontakan, dan konspirasi di setiap pengadilan membahayakan kedua tahta - dan mengubah jalannya sejarah. </item>
+        <item> Sambil menjaga profil rendah setelah kekalahannya oleh Ip Man, Cheung Tin Chi mendapat masalah setelah berkelahi dengan orang asing yang kuat. </item>
+        <item> Seorang wanita muda yang misterius, Hester Shaw, muncul sebagai satu-satunya yang dapat menghentikan kota predator raksasa di atas roda yang melahap semua yang ada di depannya. Feral, dan didorong oleh ingatan akan ibunya, Hester bergabung dengan Tom Natsworthy, orang buangan dari London, bersama dengan Anna Fang, seorang penjahat berbahaya dengan hadiah di kepalanya. </item>
+        <item> Menjelang D-Day, 5 Juni 1944, beberapa pasukan terjun payung Amerika berada di belakang garis musuh untuk melaksanakan misi yang penting bagi keberhasilan invasi: hancurkan radio menara yang dibangun di sebuah kastil kecil di kota tua Prancis yang digunakan Reich Ketiga untuk komunikasi antara bunker pantai Berlin dan Normandia. Karena tembakan musuh yang kuat, pesawat-pesawat ditembak jatuh dan sebagian besar tentara tewas di pendaratan atau terbunuh oleh patroli malam Nazi setelah mereka mendarat. Namun, seorang pribadi bernama Ed Boyce bertahan untuk menemukan Kopral Ford, penggabungan menit-menit terakhir dari Italia dan seorang ahli veteran dalam bom dan bahan peledak, penembak jitu nakal Tibbet, fotografer perang Chase, dan akhirnya pribadi Dawson. Setelah mereka menyaksikan pembunuhan atasan mereka Sargeant Eldson oleh patroli malam Nazi, Ford menjadi pemimpin kelompok dan mereka mencoba untuk mendapatkan kota dengan menara untuk menyelesaikan misi. Di hutan dekat kota mereka bertemu Chloe, seorang penduduk desa yang membantu para prajurit di rumahnya bersama  </item>
+        <item> Berlangsung enam tahun setelah menyelamatkan arcade dari pembalasan Turbo, kabinet arcade Sugar Rush telah rusak, memaksa Ralph dan Vanellope untuk melakukan perjalanan ke Internet melalui Wi-Fi yang baru diinstal router di Litwak`s Arcade untuk mengambil bagian yang mampu menyimpan game. </item>
+        <item> Seorang pejuang perang salib Robin dari Loxley (Taron Egerton) dan komandan Moornya (Jamie Foxx) melancarkan pemberontakan yang berani melawan mahkota Inggris yang korup. </item>
+        <item> Baker Dill (Matthew McConaughey) adalah seorang kapten kapal nelayan yang memimpin tur di daerah tropis yang tenang yang disebut Pulau Plymouth. Namun, kehidupannya yang tenang hancur ketika mantan istrinya, Karen (Anne Hathaway) melacaknya dengan permohonan bantuan yang putus asa. Dia memohon pada Dill untuk menyelamatkannya - dan putra mereka yang masih kecil - dari suaminya yang baru dan kejam (Jason Clarke) dengan membawanya keluar ke laut dalam perjalanan memancing, hanya untuk melemparkannya ke hiu dan membiarkannya mati. Penampilan Karen mendorong Dill kembali ke kehidupan yang dia coba lupakan, dan ketika dia berjuang antara yang benar dan yang salah, dunianya terjun ke dalam realitas baru yang mungkin tidak sepenuhnya seperti yang terlihat. </item>
+        <item> Miles Morales adalah seorang remaja New York yang berjuang dengan sekolah, teman dan, di atas semua itu, menjadi Spider-Man baru. Ketika dia bertemu Peter Parker, penyelamat New York, di multiverse, Miles harus berlatih untuk menjadi pelindung baru kotanya. </item>
+        <item> Perang Patriotik Hebat sedang berlangsung. Letnan Junior Nikolay Ivushkin dengan truk kecil, bersama dengan sopir Vasya, nyaris selamat, melepaskan diri dari tank Jerman. Ivushkin tiba di markas besar yang terletak di desa Nefyodovka, di mana ia ditunjuk sebagai komandan satu-satunya tank yang masih hidup. Segera tank-tank Hauptmann Klaus Jäger Jerman tiba di lokasi. Dalam pertempuran, Ivushkin menghancurkan seluruh perusahaan tank Yager (dalam sejumlah kasus, dengan satu proyektil, dua tank sekaligus). Namun, T-34 memiliki kerusakan serius, dan Klaus menghancurkannya. Ivushkin dan pengemudi mekanik Stepan Vasilyonok terluka dan ditangkap. </item>
+    </string-array>
+    <string-array name="sinopsis_tv">
+        <item> Oliver Queen dan ayahnya tersesat di laut ketika kapal pesiar mewah mereka tenggelam, rupanya dalam badai. Ayahnya meninggal, tetapi Oliver bertahan selama lima tahun di pulau yang belum dipetakan dan akhirnya kembali ke rumah. Tetapi dia tidak sendirian di pulau itu di mana dia belajar tidak hanya bagaimana berjuang dan bertahan hidup, tetapi juga korupsi ayahnya dan transaksi bisnis yang tidak bermoral. Ia kembali ke peradaban sebagai manusia yang telah berubah, bertekad untuk memperbaiki keadaan. Dia menyamar dengan tudung salah satu mentor pulau misteriusnya, mempersenjatai diri dengan busur dan mulai memburu pria dan wanita yang telah merusak kotanya. </item>
+        <item> Membayangkan kembali salah satu kelompok Super Heroes DC terbuang yang paling dicintai: Robotman, Manusia Negatif, Elasti-Girl dan Crazy Jane, dipimpin oleh ilmuwan gila modern Dr. Niles Caulder (Kepala). Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan. Bagian dari kelompok pendukung, bagian dari tim Pahlawan Super, Patroli Doom adalah sekelompok orang aneh bertenaga super yang berjuang untuk dunia yang tidak ingin ada hubungannya dengan mereka. Mengambil setelah peristiwa Titans, Doom Patrol akan menemukan pahlawan enggan ini di tempat yang tidak pernah mereka duga, dipanggil untuk bertindak oleh Cyborg, yang datang kepada mereka dengan misi yang sulit ditolak, tetapi dengan peringatan yang sulit untuk diabaikan: hidup mereka tidak akan pernah sama. </item>
+        <item> Mengikuti petualangan seorang anak muda yang luar biasa kuat bernama Goku saat dia mencari tujuh bola naga. Bola-bola ini, jika digabungkan, dapat memberikan pemilik keinginan yang diinginkannya. Sepanjang jalan dia mendapatkan banyak teman baru, dan musuh, dan dia berlatih untuk menjadi pejuang terkuat di dunia. </item>
+        <item> Lucy, seorang gadis berusia 17 tahun, berangkat dalam perjalanan untuk menjadi penyihir penuh dan bergabung dengan guild FAIRY TAIL yang terkuat dan paling terkenal di mana ia bertemu Natsu, Happy, Gray dan Erza, yang memperlakukannya lebih seperti keluarga daripada teman. Serial epik ini membawa kita melalui semua bahaya yang dihadapi oleh anggota peri ekor dan akhirnya diatasi melalui cinta dan persahabatan yang saling menguntungkan. </item>
+        <item> Sakit, bengkok dan salah secara politis, serial animasi ini menampilkan petualangan keluarga Griffin. Akhirnya, Peter yang bodoh dan istrinya yang tinggal di rumah Lois tinggal di Quahog, R.I, dan memiliki tiga anak. Meg, anak tertua, adalah orang buangan sosial, dan remaja Chris canggung dan tidak tahu apa-apa tentang lawan jenis. Yang termuda, Stewie, adalah bayi jenius yang bertekad membunuh ibunya dan menghancurkan dunia. Anjing yang berbicara, Brian, membuat Stewie terkendali sambil menyesap martini dan memilah-milah masalah hidupnya sendiri </item>
+        <item> Barry Allen adalah seorang ilmuwan forensik polisi Kota Pusat dengan kehidupan yang cukup bahagia, meskipun trauma masa kanak-kanak merah dan kuning misterius membunuh ibunya dan membingkai ayahnya. Semua itu berubah ketika kecelakaan akselerator partikel besar menyebabkan Barry disambar petir di labnya. Keluar dari koma sembilan bulan kemudian, Barry dan teman-teman barunya di laboratorium S.T.A.R menemukan bahwa ia sekarang memiliki kemampuan untuk bergerak dengan kecepatan manusia super. Lebih jauh, Barry mengetahui bahwa dia hanyalah satu dari banyak yang terpengaruh oleh peristiwa itu, yang kebanyakan menggunakan kekuatan mereka untuk kejahatan. Bertekad untuk membuat perbedaan, Barry mendedikasikan hidupnya untuk melawan ancaman seperti itu, seperti The Flash. Meskipun ia mendapatkan sekutu yang tidak pernah ia duga, ada juga pasukan rahasia yang bertekad untuk membantu dan memanipulasi dirinya untuk agenda mereka sendiri. </item>
+        <item> Di benua mitos Westeros, beberapa keluarga yang kuat berjuang untuk menguasai Tujuh Kerajaan. Ketika konflik meletus di kerajaan manusia, musuh kuno bangkit sekali lagi untuk mengancam mereka semua. Sementara itu, ahli waris terakhir dari plot dinasti yang baru saja dirampas untuk mengambil kembali tanah air mereka dari seberang Laut Sempit. </item>
+        <item> Di kota Gotham yang penuh kejahatan, Thomas dan Martha Wayne dibunuh di depan mata muda Bruce Wayne. Meskipun detektif Departemen Kepolisian Kota Gotham, James Gordon, dan mitra sinisnya, Harvey Bullock, tampaknya menghibur kasus ini dengan cepat, semuanya tidak begitu sederhana. Terinspirasi oleh keinginan trauma Bruce untuk keadilan, Gordon bersumpah untuk menemukannya di tengah korupsi Gotham. Dengan demikian dimulailah pencarian kesepian Gordon yang akan membuatnya melawan kawan-kawannya sendiri dan dunia bawah dengan persaingan dan misteri mereka yang mematikan. Dalam perang yang akan datang, kepolosan akan hilang dan kompromi akan dilakukan karena beberapa penjahat akan jatuh sebagai korban sementara yang lain akan naik sebagai penjahat super. Sementara itu, Bruce muda mengamati perang ini dengan obsesi yang berkembang yang suatu hari akan mendorongnya untuk mencari keadilan sendiri terhadap kejahatan Gotham sebagai The Batman. </item>
+        <item> Drama berbasis medis yang berpusat di sekitar Meredith Grey, seorang ahli bedah dan putri bercita-cita dari salah satu ahli bedah terbaik, Dr. Ellis Gray. Sepanjang seri, Meredith melewati tantangan profesional dan pribadi bersama dengan sesama ahli bedah di Rumah Sakit Seattle Grace. </item>
+        <item> Dalam bagian yang sama, film thriller konsep tinggi dan drama usia dewasa, HANNA mengikuti perjalanan seorang gadis muda luar biasa yang dibesarkan di hutan, saat ia menghindari pengejaran tanpa henti dari sebuah pesan agen CIA dan coba gali kebenaran di balik siapa dia. </item>
+        <item> Danny Rand kembali ke New York City setelah hilang selama bertahun-tahun, mencoba untuk terhubung kembali dengan masa lalunya dan warisan keluarganya. Dia bertarung melawan elemen kriminal yang merusak dunianya di sekitarnya dengan penguasaan kung-fu yang luar biasa dan kemampuan untuk memanggil kekuatan luar biasa dari Iron Fist yang berapi-api. </item>
+        <item> Naruto Uzumaki, adalah seorang ninja yang keras, hiperaktif, remaja yang terus mencari persetujuan dan pengakuan, serta menjadi Hokage, yang diakui sebagai pemimpin dan terkuat dari semua ninja di desa. </item>
+        <item> Agen Khusus Leroy Jethro Gibbs adalah pemimpin tim agen khusus yang tergabung dalam Tim Respons Kasus Utama NCIS (Naval Criminal Investigative Service). Gibbs, seorang mantan Marinir, adalah penyelidik tangguh dan seorang interogator yang sangat terampil yang mengandalkan insting ususnya sebanyak bukti. Gibbs yang kedua dalam perintah adalah Senior Field Agent Tony DiNozzo, seorang mantan wanita, mengutip-film Detektif Pembunuhan Baltimore, yang meskipun menjadi badut kelas selalu mendapatkan pekerjaan. Tim ini juga terdiri dari agen lapangan percobaan Eleanor Bisbop, mantan agen NSA, serta Agen Lapangan Junior Timothy McGee, agen yang mengerti komputer yang sering diejek oleh DiNozzo. Yang membantu mereka adalah Abby Sciuto, teknisi lab yang energik tetapi Goth yang seperti putri Gibbs dan terkenal dikutip mengatakan "perburuan mike tidak akan menghentikan pendarahan !!", dan Dr. Donald Mallard, dijuluki Ducky, orang eksentrik pemeriksa medis yang penuh dengan cerita yang tidak biasa. Tim agen elit ini, yang berbasis di Washington, D.C., menyelesaikan kasus pidana. </item>
+        <item> Setelah kematian salah satu kembar Blossom yang kaya dan populer pada 4 Juli, kota kecil Riverdale menyelidiki pembunuhan itu. Serial ini dimulai pada bulan September, awal tahun ajaran baru, yang membawa serta para siswa baru, hubungan, dan mengungkap misteri 4 Juli lalu. </item>
+        <item> Tonton keluarga Irlandia-Amerika Gallaghers berurusan dengan ayah mereka yang beralkohol Frank. Fiona, anak perempuan tertua, mengambil peran orang tua kepada lima saudara laki-laki dan perempuannya. Lip, Ian, Debbie, Carl, dan Liam berurusan dengan kehidupan di South Side of Chicago. Fiona menyeimbangkan kehidupan seksnya dan membesarkan saudara-saudaranya. Setiap episode adalah situasi gila lain yang melibatkan satu atau lebih dari enam Gallagher. Lihat mereka tumbuh dan pelajari cara hidup mereka dengan apa yang mereka miliki. </item>
+        <item> Bertahun-tahun yang lalu, Krypton akan meledak dan Kal-El dikirim ke Bumi untuk menghindari nasib itu. Namun, sepupunya yang lebih tua, Kara, juga dimaksudkan untuk menemani si bayi sebagai pelindungnya. Sayangnya, Kara tidak sengaja dialihkan ke Zona Phantom abadi selama bertahun-tahun sebelum akhirnya tiba di Bumi beberapa dekade kemudian dan ditemukan oleh sepupunya yang telah tumbuh menjadi Superman. Bertahun-tahun kemudian, Kara Danvers adalah seorang profesional muda yang terombang-ambing dalam pekerjaan tanpa pamrih sampai krisis yang menentukan memicu rasa tujuan menggunakan kekuatan Krypton yang telah lama disembunyikannya. Terinspirasi, Kara memutuskan untuk meniru cara-cara superhero sepupunya, hanya untuk menemukan saudara perempuan angkatnya memperkenalkannya ke Departemen rahasia Operasi Ekstra-Normal, yang didedikasikan untuk memerangi ancaman alien termasuk Kara yang secara tidak sengaja mengarah ke Bumi. Sekarang dengan bantuan seperti itu, Maid of Might menggantikannya sebagai juara bumi terbaru dengan teman-teman baru dan musuh yang menantang dunianya. </item>
+        <item> Drama televisi ini adalah tentang dua bersaudara Winchester, Sam dan Dean, yang dibesarkan oleh ayah mereka, John, untuk berburu dan membunuh semua hal yang terjadi "bump in the night" setelah karyanya. istrinya, Mary, dibunuh oleh makhluk gaib yang jahat ketika anak-anak lelaki itu masih muda. 22 tahun kemudian, saudara-saudara berangkat dalam sebuah perjalanan, memerangi kejahatan di sepanjang jalan, untuk menemukan ayah mereka yang baru hilang, yang ketika akhirnya bertemu dengan mereka, mengungkapkan bahwa ia tahu apa yang membunuh ibu mereka, iblis, dan telah menemukan cara untuk melacak dan bunuh itu. Sementara itu, Sam mulai mengembangkan kemampuan menakutkan yang mencakup visi kematian, visi orang sekarat sebelum itu benar-benar terjadi. Visi-visi ini entah bagaimana terhubung dengan iblis yang membunuh ibunya dan rencana misteriusnya yang sepertinya hanya tentang Sam. Ketika ayah mereka meninggal karena melakukan perjanjian dengan iblis yang sama yang telah membunuh istrinya, saudara-saudara, yang sekarang sendirian dan tanpa mentor mereka, bertekad untuk menyelesaikan perang salib yang dimulai oleh ayah mereka. Tapi wahyu yang mengganggu. </item>
+        <item> Ini adalah sitkom animasi tentang kejenakaan keluarga yang disfungsional. Homer adalah ayah pencinta bir yang tidak sehat dan tidak sehat, Marge adalah ibu rumah tangga pekerja keras, Bart adalah orang yang kurang berprestasi yang berumur sepuluh tahun (dan bangga akan hal itu), Lisa adalah jenius berusia delapan tahun yang tidak dihargai, dan Maggie adalah yang lucu, dot mencintai bayi yang diam. </item>
+        <item> Pada hari yang sama di bulan Oktober 1989, empat puluh tiga bayi secara tak terelakkan terlahir dari wanita acak yang tidak terhubung yang tidak menunjukkan tanda-tanda kehamilan pada hari sebelumnya. Tujuh diadopsi oleh Sir Reginald Hargreeves, seorang industrialis miliarder, yang menciptakan The Umbrella Academy dan mempersiapkan "anak-anaknya" untuk menyelamatkan dunia. Tetapi tidak semuanya berjalan sesuai rencana. Di masa remajanya, keluarga itu patah dan tim dibubarkan. Sekarang, keenam puluh tiga anggota yang masih hidup bersatu kembali setelah berita kematian Hargreeves. Luther, Diego, Allison, Klaus, Vanya, dan Nomor Lima bekerja bersama untuk memecahkan misteri seputar kematian ayah mereka. Tetapi keluarga yang terasing sekali lagi mulai terpisah karena kepribadian dan kemampuan mereka yang berbeda, belum lagi ancaman kiamat global yang akan segera terjadi. </item>
+        <item> Wakil Sheriff Rick Grimes tertembak dan jatuh koma. Ketika terbangun dia menemukan dirinya dalam Zombie Apocalypse. Karena tidak tahu harus berbuat apa, ia pergi mencari keluarganya, setelah selesai ia terhubung dengan sebuah kelompok untuk menjadi pemimpin. Dia mengambil alih dan mencoba membantu kelompok orang ini bertahan hidup, menemukan tempat tinggal, dan mendapatkan makanan. Pertunjukan ini adalah tentang bertahan hidup, risiko, dan hal-hal yang harus Anda lakukan untuk bertahan hidup. </item>
+    </string-array>
+    <string-array name="trailer_movie">
+        <!--A Star is Born-->
+        <item>https://www.imdb.com/title/tt1517451/videoplayer/vi94288665?ref_=tt_ov_vi</item>
+        <!--Alita-->
+        <item>https://www.imdb.com/title/tt0437086/videoplayer/vi3682056729?ref_=tt_ov_vi</item>
+        <!--Aquaman-->
+        <item>https://www.imdb.com/title/tt1477834/videoplayer/vi3588536857?ref_=tt_ov_vi</item>
+        <!--Bohemian-->
+        <item>https://www.imdb.com/title/tt1727824/videoplayer/vi1451538969?ref_=tt_ov_vi</item>
+        <!--Cold pursit-->
+        <item>https://www.imdb.com/title/tt5719748/videoplayer/vi2021964313?ref_=tt_ov_vi</item>
+        <!--Creed-->
+        <item>https://www.imdb.com/title/tt6343314/videoplayer/vi65124889?ref_=tt_ov_vi</item>
+        <!--Crimes-->
+        <item>https://www.imdb.com/title/tt4123430/videoplayer/vi1996470809?ref_=tt_ov_vi</item>
+        <!--Glass-->
+        <item>https://www.imdb.com/title/tt6823368/videoplayer/vi768195097?ref_=tt_ov_vi</item>
+        <!--How to Train-->
+        <item>https://www.imdb.com/title/tt2386490/videoplayer/vi1887746585?ref_=tt_ov_vi</item>
+        <!--Invinity War-->
+        <item>https://www.imdb.com/title/tt4154756/videoplayer/vi528070681?ref_=tt_ov_vi</item>
+        <!--Marry Queen-->
+        <item>https://www.imdb.com/title/tt2328900/videoplayer/vi2698951193?ref_=tt_ov_vi</item>
+        <!--Master Z-->
+        <item>https://www.imdb.com/title/tt7262882/videoplayer/vi3007625753?ref_=tt_ov_vi</item>
+        <!--Mortal Engines-->
+        <item>https://www.imdb.com/title/tt1571234/videoplayer/vi3886594585?ref_=tt_ov_vi</item>
+        <!--Overlord-->
+        <item>https://www.imdb.com/title/tt4530422/videoplayer/vi2230762009?ref_=tt_ov_vi</item>
+        <!--Ralph-->
+        <item>https://www.imdb.com/title/tt5848272/videoplayer/vi1706015257?ref_=tt_ov_vi</item>
+        <!--Roobin Hood-->
+        <item>https://www.imdb.com/title/tt4532826/videoplayer/vi447330841?ref_=tt_ov_vi</item>
+        <!--Serenity-->
+        <item>https://www.imdb.com/title/tt6476140/videoplayer/vi786872857?ref_=tt_ov_vi</item>
+        <!--Spiderman-->
+        <item>https://www.imdb.com/title/tt4633694/videoplayer/vi1489877529?ref_=tt_ov_vi</item>
+        <!--T34-->
+        <item>https://www.imdb.com/title/tt8820590/videoplayer/vi3718757401?ref_=tt_ov_vi</item>
+    </string-array>
+
+    <string-array name="trailer_tv">
+        <!--Arrow-->
+        <item>https://www.imdb.com/title/tt2193021/videoplayer/vi2747775769?ref_=tt_ov_vi</item>
+        <!--Doom Patrol-->
+        <item>https://www.imdb.com/title/tt8416494/videoplayer/vi2020129305?ref_=tt_ov_vi</item>
+        <!--Dragon Ball-->
+        <item>https://www.imdb.com/title/tt0280249/videoplayer/vi3824066073?ref_=tt_ov_vi</item>
+        <!--Fairytail-->
+        <item>https://www.imdb.com/title/tt1528406/videoplayer/vi4282494745?ref_=tt_ov_vi</item>
+        <!--Family Guy-->
+        <item>https://www.imdb.com/title/tt0182576/videoplayer/vi2124066585?ref_=tt_ov_vi</item>
+        <!--Flash-->
+        <item>https://www.imdb.com/title/tt3107288/videoplayer/vi2312747545?ref_=tt_ov_vi</item>
+        <!--God-->
+        <item>https://www.imdb.com/title/tt0944947/videoplayer/vi3672620057?ref_=tt_ov_vi</item>
+        <!--Gotham-->
+        <item>https://www.imdb.com/title/tt3749900/videoplayer/vi4174756377?ref_=tt_ov_vi</item>
+        <!--Grey Anatomy-->
+        <item>https://www.imdb.com/title/tt0413573/videoplayer/vi17412889?ref_=tt_ov_vi</item>
+        <!--Hanna-->
+        <item>https://www.imdb.com/title/tt6932244/videoplayer/vi2088745497?ref_=tt_ov_vi</item>
+        <!--Iron Fist-->
+        <item>https://www.imdb.com/title/tt3322310/videoplayer/vi4163615513?ref_=tt_ov_vi</item>
+        <!--Naruto Shipuden-->
+        <item>https://www.imdb.com/title/tt0988824/videoplayer/vi514000153?ref_=tt_ov_vi</item>
+        <!--NCIS-->
+        <item>https://www.imdb.com/title/tt0364845/videoplayer/vi291414809?ref_=tt_ov_vi</item>
+        <!--Riverdale-->
+        <item>https://www.imdb.com/title/tt5420376/videoplayer/vi3987520025?ref_=tt_ov_vi</item>
+        <!--Shameless-->
+        <item>https://www.imdb.com/title/tt1586680/videoplayer/vi3721247513?ref_=tt_ov_vi</item>
+        <!--Supergirl-->
+        <item>https://www.imdb.com/title/tt4016454/videoplayer/vi3636968217?ref_=tt_ov_vi</item>
+        <!--Supernatural-->
+        <item>https://www.imdb.com/title/tt0460681/videoplayer/vi3742676505?ref_=tt_ov_vi</item>
+        <!--The Simpson-->
+        <item>https://www.imdb.com/title/tt0096697/videoplayer/vi1389078297?ref_=tt_ov_vi</item>
+        <!--The Umbrella-->
+        <item>https://www.imdb.com/title/tt1312171/videoplayer/vi822589977?ref_=tt_ov_vi</item>
+        <!--The Walking Dead-->
+        <item>https://www.imdb.com/title/tt1520211/videoplayer/vi1963571737?ref_=tt_ov_vi</item>
+    </string-array>
+
+    <string-array name="thumbnail_movie">
+        <!--A Star is Born-->
+        <item>@drawable/poster_a_start_is_born</item>
+        <!--Alita-->
+        <item>@drawable/poster_alita</item>
+        <!--Aquaman-->
+        <item>@drawable/poster_aquaman</item>
+        <!--Bohemian-->
+        <item>@drawable/poster_bohemian</item>
+        <!--Cold pursit-->
+        <item>@drawable/poster_cold_persuit</item>
+        <!--Creed-->
+        <item>@drawable/poster_creed</item>
+        <!--Crimes-->
+        <item>@drawable/poster_crimes</item>
+        <!--Glass-->
+        <item>@drawable/poster_glass</item>
+        <!--How to Train-->
+        <item>@drawable/poster_how_to_train</item>
+        <!--Invinity War-->
+        <item>@drawable/poster_infinity_war</item>
+        <!--Marry Queen-->
+        <item>@drawable/poster_marry_queen</item>
+        <!--Master Z-->
+        <item>@drawable/poster_master_z</item>
+        <!--Mortal Engines-->
+        <item>@drawable/poster_mortal_engines</item>
+        <!--Overlord-->
+        <item>@drawable/poster_overlord</item>
+        <!--Ralph-->
+        <item>@drawable/poster_ralph</item>
+        <!--Roobin Hood-->
+        <item>@drawable/poster_robin_hood</item>
+        <!--Serenity-->
+        <item>@drawable/poster_serenity</item>
+        <!--Spiderman-->
+        <item>@drawable/poster_spiderman</item>
+        <!--T34-->
+        <item>@drawable/poster_t34</item>
+    </string-array>
+
+    <string-array name="thumbnail_tv">
+        <!--Arrow-->
+        <item>@drawable/poster_arrow</item>
+        <!--Doom Patrol-->
+        <item>@drawable/poster_doom_patrol</item>
+        <!--Dragon Ball-->
+        <item>@drawable/poster_dragon_ball</item>
+        <!--Fairytail-->
+        <item>@drawable/poster_fairytail</item>
+        <!--Family Guy-->
+        <item>@drawable/poster_family_guy</item>
+        <!--Flash-->
+        <item>@drawable/poster_flash</item>
+        <!--God-->
+        <item>@drawable/poster_god</item>
+        <!--Gotham-->
+        <item>@drawable/poster_gotham</item>
+        <!--Grey Anatomy-->
+        <item>@drawable/poster_grey_anatomy</item>
+        <!--Hanna-->
+        <item>@drawable/poster_hanna</item>
+        <!--Iron Fist-->
+        <item>@drawable/poster_iron_fist</item>
+        <!--Naruto Shipuden-->
+        <item>@drawable/poster_naruto_shipudden</item>
+        <!--NCIS-->
+        <item>@drawable/poster_ncis</item>
+        <!--Riverdale-->
+        <item>@drawable/poster_riverdale</item>
+        <!--Shameless-->
+        <item>@drawable/poster_shameless</item>
+        <!--Supergirl-->
+        <item>@drawable/poster_supergirl</item>
+        <!--Supernatural-->
+        <item>@drawable/poster_supernatural</item>
+        <!--The Simpson-->
+        <item>@drawable/poster_the_simpson</item>
+        <!--The Umbrella-->
+        <item>@drawable/poster_the_umbrella</item>
+        <!--The Walking Dead-->
+        <item>@drawable/poster_the_walking_dead</item>
+    </string-array>
+</resources>

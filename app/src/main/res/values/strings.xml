@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">DoMovieUIUX</string>
+    <string name="btn_detail">Detail</string>
+    <string name="btn_trailer">Trailer</string>
+
+    <string name="tab_movie">Movie</string>
+    <string name="tab_tv">Tv Show</string>
+
+    <string name="ganti_bahasa">Change Language</string>
+    <string name="exit">Exit</string>
+
+    <string name="director">Director : </string>
+    <string name="creator">Creator : </string>
+    <string name="cast">Cast : </string>
+    <string name="sinopsis">Synopsis : </string>
+
+    <string-array name="title_movie">
+        <!--A Star is Born-->
+        <item>A Star is Born</item>
+        <!--Alita-->
+        <item>Alita: Battle Angel</item>
+        <!--Aquaman-->
+        <item>Aquaman</item>
+        <!--Bohemian-->
+        <item>Bohemian Rhapsody</item>
+        <!--Cold pursit-->
+        <item>Cold Pursuit</item>
+        <!--Creed-->
+        <item>Creed II </item>
+        <!--Crimes-->
+        <item>Fantastic Beasts: The Crimes of Grindelwald</item>
+        <!--Glass-->
+        <item>Glass </item>
+        <!--How to Train-->
+        <item>How to Train Your Dragon: The Hidden World </item>
+        <!--Invinity War-->
+        <item>Avengers: Infinity War</item>
+        <!--Marry Queen-->
+        <item>Mary Queen of Scots</item>
+        <!--Master Z-->
+        <item>Master Z: Ip Man Legacy</item>
+        <!--Mortal Engines-->
+        <item>Mortal Engines</item>
+        <!--Overlord-->
+        <item>Overlord </item>
+        <!--Ralph-->
+        <item>Ralph Breaks the Internet</item>
+        <!--Roobin Hood-->
+        <item>Robin Hood</item>
+        <!--Serenity-->
+        <item>Serenity </item>
+        <!--Spiderman-->
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <!--T34-->
+        <item>T-34 </item>
+    </string-array>
+
+    <string-array name="title_tv">
+        <!--Arrow-->
+        <item>Arrow </item>
+        <!--Doom Patrol-->
+        <item>Doom Patrol</item>
+        <!--Dragon Ball-->
+        <item>Dragon Ball </item>
+        <!--Fairytail-->
+        <item>Fairy Tail</item>
+        <!--Family Guy-->
+        <item>Family Guy</item>
+        <!--Flash-->
+        <item>The Flash </item>
+        <!--God-->
+        <item>Game of Thrones</item>
+        <!--Gotham-->
+        <item>Gotham </item>
+        <!--Grey Anatomy-->
+        <item>Grey`s Anatomy</item>
+        <!--Hanna-->
+        <item>Hanna </item>
+        <!--Iron Fist-->
+        <item>Iron Fist</item>
+        <!--Naruto Shipuden-->
+        <item>Naruto: Shippûden</item>
+        <!--NCIS-->
+        <item>NCIS</item>
+        <!--Riverdale-->
+        <item>Riverdale </item>
+        <!--Shameless-->
+        <item>Shameless </item>
+        <!--Supergirl-->
+        <item>Supergirl </item>
+        <!--Supernatural-->
+        <item>Supernatural </item>
+        <!--The Simpson-->
+        <item>The Simpsons</item>
+        <!--The Umbrella-->
+        <item>The Umbrella Academy</item>
+        <!--The Walking Dead-->
+        <item>The Walking Dead </item>
+    </string-array>
+
+    <string-array name="director_movie">
+        <!--A Star is Born-->
+        <item>Bradley Cooper</item>
+        <!--Alita-->
+        <item>Robert Rodriguez</item>
+        <!--Aquaman-->
+        <item>James Wan</item>
+        <!--Bohemian-->
+        <item>Bryan Singer</item>
+        <!--Cold pursit-->
+        <item>Hans Petter Moland</item>
+        <!--Creed-->
+        <item>Steven Caple Jr.</item>
+        <!--Crimes-->
+        <item>David Yates</item>
+        <!--Glass-->
+        <item>M. Night Shyamalan</item>
+        <!--How to Train-->
+        <item>Dean DeBlois</item>
+        <!--Invinity War-->
+        <item>Anthony Russo, Joe Russo</item>
+        <!--Marry Queen-->
+        <item>Josie Rourke</item>
+        <!--Master Z-->
+        <item>Woo-Ping Yuen</item>
+        <!--Mortal Engines-->
+        <item>Christian Rivers</item>
+        <!--Overlord-->
+        <item>Julius Avery</item>
+        <!--Ralph-->
+        <item>Phil Johnston, Rich Moore</item>
+        <!--Roobin Hood-->
+        <item>Phil Johnston, Rich Moore</item>
+        <!--Serenity-->
+        <item>Steven Knight</item>
+        <!--Spiderman-->
+        <item>Bob Persichetti</item>
+        <!--T34-->
+        <item>Aleksey Sidorov</item>
+    </string-array>
+
+    <string-array name="director_tv">
+        <!--Arrow-->
+        <item>Greg Berlanti, Marc Guggenheim, Andrew Kreisberg</item>
+        <!--Doom Patrol-->
+        <item>Jeremy Carver</item>
+        <!--Dragon Ball-->
+        <item>Akira Toriyama</item>
+        <!--Fairytail-->
+        <item>Hiro Mashima, Masashi Sogo</item>
+        <!--Family Guy-->
+        <item>Seth MacFarlane, David Zuckerman</item>
+        <!--Flash-->
+        <item>Greg Berlanti, Geoff Johns, Andrew Kreisberg</item>
+        <!--God-->
+        <item>David Benioff, D.B. Weiss</item>
+        <!--Gotham-->
+        <item>Bruno Heller</item>
+        <!--Grey Anatomy-->
+        <item>Shonda Rhimes</item>
+        <!--Hanna-->
+        <item>David Farr</item>
+        <!--Iron Fist-->
+        <item>Scott Buck</item>
+        <!--Naruto Shipuden-->
+        <item>Masashi Kishimoto</item>
+        <!--NCIS-->
+        <item>Donald P. Bellisario, Don McGill</item>
+        <!--Riverdale-->
+        <item>Roberto Aguirre-Sacasa</item>
+        <!--Shameless-->
+        <item>Paul Abbott, John Wells</item>
+        <!--Supergirl-->
+        <item>Ali Adler, Greg Berlanti, Andrew Kreisberg</item>
+        <!--Supernatural-->
+        <item>Eric Kripke</item>
+        <!--The Simpson-->
+        <item>James L. Brooks, Matt Groening, Sam Simon</item>
+        <!--The Umbrella-->
+        <item>Jeremy Slater</item>
+        <!--The Walking Dead-->
+        <item>Frank Darabont, Angela Kang</item>
+    </string-array>
+
+    <string-array name="cast_movie">
+        <!--A Star is Born-->
+        <item>Lady Gaga, Bradley Cooper, Sam Elliott</item>
+        <!--Alita-->
+        <item>Rosa Salazar, Christoph Waltz, Jennifer Connelly</item>
+        <!--Aquaman-->
+        <item>Jason Momoa, Amber Heard, Willem Dafoe</item>
+        <!--Bohemian-->
+        <item>Rami Malek, Lucy Boynton, Gwilym Lee</item>
+        <!--Cold pursit-->
+        <item>Liam Neeson, Laura Dern, Micheál Richardson</item>
+        <!--Creed-->
+        <item>Michael B. Jordan, Sylvester Stallone, Tessa Thompson </item>
+        <!--Crimes-->
+        <item>Eddie Redmayne, Katherine Waterston, Dan Fogler</item>
+        <!--Glass-->
+        <item>James McAvoy, Bruce Willis, Samuel L. Jackson</item>
+        <!--How to Train-->
+        <item>Jay Baruchel, America Ferrera, F. Murray Abraham</item>
+        <!--Invinity War-->
+        <item>Robert Downey Jr., Chris Hemsworth, Mark Ruffalo </item>
+        <!--Marry Queen-->
+        <item>Saoirse Ronan, Margot Robbie, Jack Lowden</item>
+        <!--Master Z-->
+        <item>Jin Zhang, Dave Bautista, Michelle Yeoh</item>
+        <!--Mortal Engines-->
+        <item>Hera Hilmar, Robert Sheehan, Hugo Weaving </item>
+        <!--Overlord-->
+        <item>Jovan Adepo, Wyatt Russell, Mathilde Ollivier </item>
+        <!--Ralph-->
+        <item>John C. Reilly, Sarah Silverman, Gal Gadot </item>
+        <!--Roobin Hood-->
+        <item>Taron Egerton, Jamie Foxx, Ben Mendelsohn</item>
+        <!--Serenity-->
+        <item>Matthew McConaughey, Anne Hathaway, Diane Lane</item>
+        <!--Spiderman-->
+        <item>Shameik Moore, Jake Johnson, Hailee Steinfeld </item>
+        <!--T34-->
+        <item>Alexander Petrov, Irina Starshenbaum, Viktor Dobronravov</item>
+    </string-array>
+
+    <string-array name="cast_tv">
+        <!--Arrow-->
+        <item>Stephen Amell, Katie Cassidy, David Ramsey</item>
+        <!--Doom Patrol-->
+        <item>Diane Guerrero, April Bowlby, Alan Tudyk</item>
+        <!--Dragon Ball-->
+        <item>Brice Armstrong, Steve Olson, Stephanie Nadolny</item>
+        <!--Fairytail-->
+        <item>Todd Haberkorn, Cherami Leigh, Tia Lynn Ballard</item>
+        <!--Family Guy-->
+        <item>Seth MacFarlane, Alex Borstein, Seth Green</item>
+        <!--Flash-->
+        <item>Grant Gustin, Candice Patton, Danielle Panabaker</item>
+        <!--God-->
+        <item> Emilia Clarke, Peter Dinklage, Kit Haringto</item>
+        <!--Gotham-->
+        <item> Ben McKenzie, Jada Pinkett Smith, Donal Logue</item>
+        <!--Grey Anatomy-->
+        <item> Justin Chambers, Ellen Pompeo, Chandra Wilson</item>
+        <!--Hanna-->
+        <item> Esme Creed-Miles, Mireille Enos, Joel Kinnaman</item>
+        <!--Iron Fist-->
+        <item> Finn Jones, Jessica Henwick, Jessica Stroup</item>
+        <!--Naruto Shipuden-->
+        <item>Junko Takeuchi, Maile Flanagan, Chie Nakamura</item>
+        <!--NCIS-->
+        <item> Mark Harmon, David McCallum, Sean Murray</item>
+        <!--Riverdale-->
+        <item>K.J. Apa, Lili Reinhart, Camila Mendes </item>
+        <!--Shameless-->
+        <item>Emmy Rossum, William H. Macy, Ethan Cutkosky</item>
+        <!--Supergirl-->
+        <item>Melissa Benoist, Mehcad Brooks, Chyler Leigh</item>
+        <!--Supernatural-->
+        <item> Jared Padalecki, Jensen Ackles, Jim Beaver</item>
+        <!--The Simpson-->
+        <item>Dan Castellaneta, Nancy Cartwright, Harry Shearer</item>
+        <!--The Umbrella-->
+        <item>Ellen Page, Tom Hopper, David Castañeda</item>
+        <!--The Walking Dead-->
+        <item>Andrew Lincoln, Norman Reedus, Melissa McBride</item>
+    </string-array>
+
+    <string-array name="genre_movie">
+        <!--A Star is Born-->
+        <item>Drama, Music, Romance</item>
+        <!--Alita-->
+        <item>Action, Adventure, Sci-Fi</item>
+        <!--Aquaman-->
+        <item>Action, Adventure, Fantasy</item>
+        <!--Bohemian-->
+        <item>Biography, Drama, Music </item>
+        <!--Cold pursit-->
+        <item>Action, Crime, Drama</item>
+        <!--Creed-->
+        <item>Drama, Sport</item>
+        <!--Crimes-->
+        <item>Adventure, Family, Fantasy</item>
+        <!--Glass-->
+        <item> Drama, Sci-Fi, Thriller</item>
+        <!--How to Train-->
+        <item> Animation, Action, Adventure</item>
+        <!--Invinity War-->
+        <item>Action, Adventure, Sci-Fi </item>
+        <!--Marry Queen-->
+        <item>Biography, Drama, History</item>
+        <!--Master Z-->
+        <item>Action, Crime</item>
+        <!--Mortal Engines-->
+        <item>Action, Adventure, Fantasy</item>
+        <!--Overlord-->
+        <item>Action, Adventure, Horror</item>
+        <!--Ralph-->
+        <item> Animation, Adventure, Comedy</item>
+        <!--Roobin Hood-->
+        <item> Action, Adventure, Thriller </item>
+        <!--Serenity-->
+        <item>Drama, Mystery, Sci-Fi </item>
+        <!--Spiderman-->
+        <item>Animation, Action, Adventure</item>
+        <!--T34-->
+        <item> Action, War</item>
+    </string-array>
+
+    <string-array name="genre_tv">
+        <!--Arrow-->
+        <item> Action, Adventure, Crime</item>
+        <!--Doom Patrol-->
+        <item>Action, Adventure, Comedy</item>
+        <!--Dragon Ball-->
+        <item>Animation, Action, Adventure</item>
+        <!--Fairytail-->
+        <item>Animation, Action, Adventure</item>
+        <!--Family Guy-->
+        <item>Animation, Comedy</item>
+        <!--Flash-->
+        <item>Action, Adventure, Drama</item>
+        <!--God-->
+        <item> Action, Adventure, Drama</item>
+        <!--Gotham-->
+        <item>Action, Crime, Drama</item>
+        <!--Grey Anatomy-->
+        <item>Drama, Romance</item>
+        <!--Hanna-->
+        <item> Action, Drama</item>
+        <!--Iron Fist-->
+        <item> Action, Adventure, Crime</item>
+        <!--Naruto Shipuden-->
+        <item>Animation, Action, Adventure</item>
+        <!--NCIS-->
+        <item>Action, Crime, Drama</item>
+        <!--Riverdale-->
+        <item> Crime, Drama, Mystery</item>
+        <!--Shameless-->
+        <item>Comedy, Drama</item>
+        <!--Supergirl-->
+        <item>Action, Adventure, Drama</item>
+        <!--Supernatural-->
+        <item> Drama, Fantasy, Horror </item>
+        <!--The Simpson-->
+        <item>Animation, Comedy</item>
+        <!--The Umbrella-->
+        <item> Action, Adventure, Comedy</item>
+        <!--The Walking Dead-->
+        <item> Drama, Horror, Thriller</item>
+    </string-array>
+
+    <string-array name="duration_movie">
+        <!--A Star is Born-->
+        <item>2h 16min</item>
+        <!--Alita-->
+        <item>2h 2min</item>
+        <!--Aquaman-->
+        <item> 2h 23min </item>
+        <!--Bohemian-->
+        <item>2h 14min </item>
+        <!--Cold pursit-->
+        <item> 1h 59min</item>
+        <!--Creed-->
+        <item>2h 10min</item>
+        <!--Crimes-->
+        <item>2h 14min </item>
+        <!--Glass-->
+        <item>2h 9min</item>
+        <!--How to Train-->
+        <item> 1h 44min</item>
+        <!--Invinity War-->
+        <item>2h 29min</item>
+        <!--Marry Queen-->
+        <item> 2h 4min </item>
+        <!--Master Z-->
+        <item>1h 47min</item>
+        <!--Mortal Engines-->
+        <item>2h 8min</item>
+        <!--Overlord-->
+        <item>1h 50min</item>
+        <!--Ralph-->
+        <item>1h 52min</item>
+        <!--Roobin Hood-->
+        <item>1h 56min</item>
+        <!--Serenity-->
+        <item>1h 46min</item>
+        <!--Spiderman-->
+        <item>1h 57min</item>
+        <!--T34-->
+        <item>2h 19min</item>
+    </string-array>
+
+    <string-array name="release_date_movie">
+        <!--A Star is Born-->
+        <item> 5 October 2018 (USA) </item>
+        <!--Alita-->
+        <item> 14 February 2019 (USA) </item>
+        <!--Aquaman-->
+        <item>21 December 2018 (USA)</item>
+        <!--Bohemian-->
+        <item> 2 November 2018 (USA) </item>
+        <!--Cold pursit-->
+        <item> 8 February 2019 (USA) </item>
+        <!--Creed-->
+        <item>21 November 2018 (USA)</item>
+        <!--Crimes-->
+        <item> 16 November 2018 (USA) </item>
+        <!--Glass-->
+        <item>18 January 2019 (USA)</item>
+        <!--How to Train-->
+        <item>22 February 2019 (USA)</item>
+        <!--Invinity War-->
+        <item>27 April 2018 (USA)</item>
+        <!--Marry Queen-->
+        <item> 21 December 2018 (USA)</item>
+        <!--Master Z-->
+        <item>12 April 2019 (USA)</item>
+        <!--Mortal Engines-->
+        <item> 14 December 2018 (USA) </item>
+        <!--Overlord-->
+        <item> 9 November 2018 (USA) </item>
+        <!--Ralph-->
+        <item>21 November 2018 (USA) </item>
+        <!--Roobin Hood-->
+        <item>21 November 2018 (USA) </item>
+        <!--Serenity-->
+        <item> 25 January 2019 (USA) </item>
+        <!--Spiderman-->
+        <item>14 December 2018 (USA)</item>
+        <!--T34-->
+        <item> 27 December 2018 (Russia) </item>
+    </string-array>
+
+    <string-array name="release_date_tv">
+        <!--Arrow-->
+        <item>TV Series (2012– )</item>
+        <!--Doom Patrol-->
+        <item> TV Series (2019– ) </item>
+        <!--Dragon Ball-->
+        <item>TV Series (1986–2003)</item>
+        <!--Fairytail-->
+        <item>TV Series (2009– ) </item>
+        <!--Family Guy-->
+        <item>TV Series (1999– )</item>
+        <!--Flash-->
+        <item>TV Series (2014– )</item>
+        <!--God-->
+        <item> TV Series (2011–2019)</item>
+        <!--Gotham-->
+        <item>TV Series (2014–2019)</item>
+        <!--Grey Anatomy-->
+        <item> TV Series (2005– )</item>
+        <!--Hanna-->
+        <item> TV Series (2019– ) </item>
+        <!--Iron Fist-->
+        <item>TV Series (2017–2018) </item>
+        <!--Naruto Shipuden-->
+        <item> TV Series (2007–2017) </item>
+        <!--NCIS-->
+        <item>TV Series (2003– ) </item>
+        <!--Riverdale-->
+        <item>TV Series (2017– )</item>
+        <!--Shameless-->
+        <item> TV Series (2011– ) </item>
+        <!--Supergirl-->
+        <item>TV Series (2015– )</item>
+        <!--Supernatural-->
+        <item>TV Series (2005– ) </item>
+        <!--The Simpson-->
+        <item>TV Series (1989– )</item>
+        <!--The Umbrella-->
+        <item> TV Series (2019– ) </item>
+        <!--The Walking Dead-->
+        <item> TV Series (2010– ) </item>
+    </string-array>
+
+    <string-array name="rating_movie">
+        <!--A Star is Born-->
+        <item>7.7</item>
+        <!--Alita-->
+        <item>7.5</item>
+        <!--Aquaman-->
+        <item>7.1</item>
+        <!--Bohemian-->
+        <item>8.0</item>
+        <!--Cold pursit-->
+        <item>6.2</item>
+        <!--Creed-->
+        <item>7.2</item>
+        <!--Crimes-->
+        <item>6.6</item>
+        <!--Glass-->
+        <item>6.7</item>
+        <!--How to Train-->
+        <item>7.6</item>
+        <!--Invinity War-->
+        <item>8.5</item>
+        <!--Marry Queen-->
+        <item>6.3</item>
+        <!--Master Z-->
+        <item>6.5</item>
+        <!--Mortal Engines-->
+        <item>6.1</item>
+        <!--Overlord-->
+        <item>6.7</item>
+        <!--Ralph-->
+        <item>7.1</item>
+        <!--Roobin Hood-->
+        <item>5.3</item>
+        <!--Serenity-->
+        <item>5.3</item>
+        <!--Spiderman-->
+        <item>8.5</item>
+        <!--T34-->
+        <item>6.3</item>
+    </string-array>
+
+    <string-array name="rating_tv">
+        <!--Arrow-->
+        <item>7.6</item>
+        <!--Doom Patrol-->
+        <item>8.2</item>
+        <!--Dragon Ball-->
+        <item>8.5</item>
+        <!--Fairytail-->
+        <item>8.1</item>
+        <!--Family Guy-->
+        <item>8.2</item>
+        <!--Flash-->
+        <item>7.8</item>
+        <!--God-->
+        <item>9.4</item>
+        <!--Gotham-->
+        <item>7.9</item>
+        <!--Grey Anatomy-->
+        <item>7.6</item>
+        <!--Hanna-->
+        <item>7.6</item>
+        <!--Iron Fist-->
+        <item>6.6</item>
+        <!--Naruto Shipuden-->
+        <item>8.4</item>
+        <!--NCIS-->
+        <item>7.8</item>
+        <!--Riverdale-->
+        <item>7.3</item>
+        <!--Shameless-->
+        <item>8.7</item>
+        <!--Supergirl-->
+        <item>6.4</item>
+        <!--Supernatural-->
+        <item>8.5</item>
+        <!--The Simpson-->
+        <item>8.7</item>
+        <!--The Umbrella-->
+        <item>8.1</item>
+        <!--The Walking Dead-->
+        <item>8.3</item>
+    </string-array>
+
+    <string-array name="sinopsis_movie">
+        <!--A Star is Born-->
+        <item>Seasoned musician Jackson Maine (Bradley Cooper)
+            discovers-and falls in love with-struggling artist Ally (Gaga). She has just about given up on her dream to make it big as a singer - until Jack coaxes her into the spotlight. But even as Ally`s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <!--Alita-->
+        <item>Alita is a creation from an age of despair. Found by the mysterious Dr. Ido while trolling for cyborg parts, Alita becomes a lethal, dangerous being. She cannot remember who she is, or where she came from. But to Dr. Ido, the truth is all too clear. She is the one being who can break the cycle of death and destruction left behind from Tiphares. But to accomplish her true purpose, she must fight and kill. And that is where Alita`s true significance comes to bear. She is an angel from heaven. She is an angel of death.</item>
+        <!--Aquaman-->
+        <item>Arthur Curry, half human half from Atlantis, goes on a trip of a lifetime. Not only does this adventure compel him to come to terms with his real identity, but it also forces him to discover whether he is entirely worthy of fulfilling his own destiny: becoming a king.</item>
+        <!--Bohemian-->
+        <item>Bohemian Rhapsody is a foot-stomping celebration of Queen, their music and their extraordinary lead singer Freddie Mercury. Freddie defied stereotypes and shattered convention to become one of the most beloved entertainers on the planet. The film traces the meteoric rise of the band through their iconic songs and revolutionary sound. They reach unparalleled success, but in an unexpected turn Freddie, surrounded by darker influences, shuns Queen in pursuit of his solo career. Having suffered greatly without the collaboration of Queen, Freddie manages to reunite with his bandmates just in time for Live Aid. While bravely facing a recent AIDS diagnosis, Freddie leads the band in one of the greatest performances in the history of rock music. Queen cements a legacy that continues to inspire outsiders, dreamers and music lovers to this day.</item>
+        <!--Cold pursit-->
+        <item>Quiet family man and hard-working snowplow driver Nels is the lifeblood of a glitzy resort town in the Rocky Mountains because he is the one who keeps the winter roads clear. He and his wife live in a comfortable cabin away from the tourists. The town has just awarded him "Citizen of the Year." But Nels has to leave his quiet mountain life when his son is murdered by a powerful drug lord. As a man who has nothing to lose he is stoked by a drive for vengeance. This unlikely hero uses his hunting skills and transforms from an ordinary man into a skilled killer as he sets out to dismantle the cartel. Nels` actions ignite a turf war between a manically unpredictable gangster known as Viking and a rival gang boss. Justice is served in one final spectacular confrontation that will leave (almost) no one unscathed.</item>
+        <!--Creed-->
+        <item>Years after Adonis Creed made a name for himself under Rocky Balboa`s mentorship, the young boxer becomes the Heavyweight Champion of the World. While life is good with that victory and his marriage to Bianca, trouble comes to Philadelphia when Ivan Drago, the Russian boxer who killed Adonis` father, Apollo, arrives with his son, Viktor, to challenge Adonis. Against Rocky`s advice, Adonis accepts the challenge without his mentor`s participation and pays the price in a punishing bout he wins only by a technicality. Now injured and demoralized, Adonis cannot bring himself to back into the game, leaving his spirit and title in jeopardy. Together, Adonis` family and Rocky must find a way to rekindle Adonis` fighting spirit to face the future in whatever choice he makes. Meanwhile, the Drago family have its own troubles trying to regain the respect in their homeland that they lost at Rocky`s hands as they wonder whether is it truly worth it.</item>
+        <!--Crimes-->
+        <item>In an effort to thwart Grindelwald`s plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he`s unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.</item>
+        <!--Glass-->
+        <item>After pursuing Kevin Wendell Crumb and the multiple identities that reside within. David Dunn finds himself locked in a mental hospital alongside his archenemy, Elijah Price and must contend with a psychiatrist who is out to prove the trio do not actually possess superhuman abilities</item>
+        <!--How to Train-->
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless` discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup`s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <!--Invinity War-->
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain.</item>
+        <!--Marry Queen-->
+        <item>Mary Queen of Scots explores the turbulent life of the charismatic Mary Stuart. Queen of France at 16 and widowed at 18, Mary defies pressure to remarry. Instead, she returns to her native Scotland to reclaim her rightful throne. But Scotland and England fall under the rule of the compelling Elizabeth I. Each young Queen beholds her "sister" in fear and fascination. Rivals in power and in love, and female regents in a masculine world, the two must decide how to play the game of marriage versus independence. Determined to rule as much more than a figurehead, Mary asserts her claim to the English throne, threatening Elizabeth`s sovereignty. Betrayal, rebellion, and conspiracies within each court imperil both thrones - and change the course of history.</item>
+        <!--Master Z-->
+        <item>While keeping a low profile after his defeat by Ip Man, Cheung Tin Chi gets into trouble after getting in a fight with a powerful foreigner.</item>
+        <!--Mortal Engines-->
+        <item>A mysterious young woman, Hester Shaw, emerges as the only one who can stop a giant, predator city on wheels devouring everything in its path. Feral, and fiercely driven by the memory of her mother, Hester joins forces with Tom Natsworthy, an outcast from London, along with Anna Fang, a dangerous outlaw with a bounty on her head.</item>
+        <!--Overlord-->
+        <item>On the eve of D-Day, the 5th of June, 1944, several American paratroopers are dropped behind enemy lines to carry out a mission crucial to the invasion`s success: destroy a radio tower built in a little castle of an old French town that the Third Reich uses for communication between Berlin and Normandy beaches` bunkers. Due to the intense enemy fire, the planes are shot down and most soldiers die in the landing or are killed by the Nazis` night patrols after they land. However, a private named Ed Boyce survives to find Corporal Ford, a last-minute incorporation from Italy and a veteran expert in bombs and explosives, rogue sniper Tibbet, war photographer Chase, and finally private Dawson. After they watch the killing of their superior Sargeant Eldson by a Nazi night patrol, Ford becomes leader of the group and they try to get the town with the tower in order to complete the mission. In the forest close to the town they meet Chloe, a villager who assists the soldiers in her home with </item>
+        <!--Ralph-->
+        <item>Taking place six years after saving the arcade from Turbo`s vengeance, the Sugar Rush arcade cabinet has broken, forcing Ralph and Vanellope to travel to the Internet via the newly-installed Wi-Fi router in Litwak`s Arcade to retrieve the piece capable of saving the game.</item>
+        <!--Roobin Hood-->
+        <item>A war-hardened crusader Robin of Loxley (Taron Egerton) and his Moorish commander (Jamie Foxx) mount an audacious revolt against the corrupt English crown.</item>
+        <!--Serenity-->
+        <item>Baker Dill (Matthew McConaughey) is a fishing boat captain leading tours off a tranquil, tropical enclave called Plymouth Island. His quiet life is shattered, however, when his ex-wife Karen (Anne Hathaway) tracks him down with a desperate plea for help. She begs Dill to save her - and their young son - from her new, violent husband (Jason Clarke) by taking him out to sea on a fishing excursion, only to throw him to the sharks and leave him for dead. Karen`s appearance thrusts Dill back into a life he`d tried to forget, and as he struggles between right and wrong, his world is plunged into a new reality that may not be all that it seems.</item>
+        <!--Spiderman-->
+        <item>Miles Morales is a New York teen struggling with school, friends and, on top of that, being the new Spider-Man. When he comes across Peter Parker, the erstwhile saviour of New York, in the multiverse, Miles must train to become the new protector of his city.</item>
+        <!--T34-->
+        <item>The Great Patriotic War is going on. Junior Lieutenant Nikolay Ivushkin in a small truck, along with the driver Vasya, barely survived, break away from the German tank. Ivushkin arrives at the headquarters located in the village of Nefyodovka, where he is appointed commander of the only surviving tank. Soon the tanks of the German Hauptmann Klaus Jäger arrive at the site. In battle, Ivushkin destroys the entire tank company of Yager (in a number of cases, with one projectile, two tanks at a time). However, the T-34 has serious damage, and Klaus destroys it. Ivushkin and mechanic-driver Stepan Vasilyonok were wounded and captured.</item>
+    </string-array>
+
+    <string-array name="sinopsis_tv">
+        <!--Arrow-->
+        <item>Oliver Queen and his father are lost at sea when their luxury yacht sinks, apparently in a storm. His father dies, but Oliver survives for five years on an uncharted island and eventually returns home. But he wasn`t alone on the island where he learned not only how to fight and survive but also of his father`s corruption and unscrupulous business dealings. He returns to civilization a changed man, determined to put things right. He disguises himself with the hood of one of his mysterious island mentors, arms himself with a bow and sets about hunting down the men and women who have corrupted his city.</item>
+        <!--Doom Patrol-->
+        <item>A re-imagining of one of DC`s most beloved group of outcast Super Heroes: Robotman, Negative Man, Elasti-Girl and Crazy Jane, led by modern-day mad scientist Dr. Niles Caulder (The Chief). The Doom Patrol`s members each suffered horrible accidents that gave them superhuman abilities - but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence - and to protect Earth from what they find. Part support group, part Super Hero team, the Doom Patrol is a band of super-powered freaks who fight for a world that wants nothing to do with them. Picking up after the events of Titans, Doom Patrol will find these reluctant heroes in a place they never expected to be, called to action by none other than Cyborg, who comes to them with a mission hard to refuse, but with a warning that is hard to ignore: their lives will never, ever be the same.</item>
+        <!--Dragon Ball-->
+        <item>Follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.</item>
+        <!--Fairytail-->
+        <item>Lucy, a 17 year old girl, sets out on journey to become a full-fledged wizard and joins the strongest and most (in) famous guild FAIRY TAIL where she meets Natsu, Happy, Gray and Erza, who treat her more like family than friends. This epic series takes us through all the dangers that the members of fairy tail face and eventually overcome through mutual love and friendship.</item>
+        <!--Family Guy-->
+        <item>Sick, twisted and politically incorrect, the animated series features the adventures of the Griffin family. Endearingly ignorant Peter and his stay-at-home wife Lois reside in Quahog, R.I., and have three kids. Meg, the eldest child, is a social outcast, and teenage Chris is awkward and clueless when it comes to the opposite sex. The youngest, Stewie, is a genius baby bent on killing his mother and destroying the world. The talking dog, Brian, keeps Stewie in check while sipping martinis and sorting through his own life issues</item>
+        <!--Flash-->
+        <item>Barry Allen is a Central City police forensic scientist with a reasonably happy life, despite the childhood trauma of a mysterious red and yellow lightning killing his mother and framing his father. All that changes when a massive particle accelerator accident leads to Barry being struck by lightning in his lab. Coming out of coma nine months later, Barry and his new friends at S.T.A.R labs find that he now has the ability to move at superhuman speed. Furthermore, Barry learns that he is but one of many affected by that event, most of whom are using their powers for evil. Determined to make a difference, Barry dedicates his life to fighting such threats, as The Flash. While he gains allies he never expected, there are also secret forces determined to aid and manipulate him for their own agenda.</item>
+        <!--God-->
+        <item>In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea.</item>
+        <!--Gotham-->
+        <item>In crime ridden Gotham City, Thomas and Martha Wayne are murdered before young Bruce Wayne`s eyes. Although Gotham City Police Department detectives, James Gordon, and his cynical partner, Harvey Bullock, seem to solace`s the case quickly, things are not so simple. Inspired by Bruce`s traumatized desire for justice, Gordon vows to find it amid Gotham`s corruption. Thus begins Gordon`s lonely quest that would set him against his own comrades and the underworld with their own deadly rivalries and mysteries. In the coming wars, innocence will be lost and compromises will be made as some criminals will fall as casualties while others will rise as super villains. All the while, young Bruce observes this war with a growing obsession that would one day drive him to seek his own justice against the evil of Gotham as The Batman.</item>
+        <!--Grey Anatomy-->
+        <item>A medical based drama centered around Meredith Grey, an aspiring surgeon and daughter of one of the best surgeons, Dr. Ellis Grey. Throughout the series, Meredith goes through professional and personal challenges along with fellow surgeons at Seattle Grace Hospital.</item>
+        <!--Hanna-->
+        <item>In equal parts high-concept thriller and coming-of-age drama, HANNA follows the journey of an extraordinary young girl raised in the forest, as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is.</item>
+        <!--Iron Fist-->
+        <item>Danny Rand returns to New York City after being missing for years, trying to reconnect with his past and his family legacy. He fights against the criminal element corrupting his world around him with his incredible kung-fu mastery and ability to summon the awesome power of the fiery Iron Fist.</item>
+        <!--Naruto Shipuden-->
+        <item>Naruto Uzumaki, is a loud, hyperactive, adolescent ninja who constantly searches for approval and recognition, as well as to become Hokage, who is acknowledged as the leader and strongest of all ninja in the village.</item>
+        <!--NCIS-->
+        <item>Special Agent Leroy Jethro Gibbs is the leader of a team of special agents belonging to the NCIS (Naval Criminal Investigative Service) Major Case Response Team. Gibbs, a former Marine, is a tough investigator and a highly skilled interrogator who relies on his gut instinct as much as evidence. Gibbs` second in command is Senior Field Agent Tony DiNozzo, a womanizing, movie-quoting former Baltimore Homicide Detective, who despite being the class clown always gets the job done. The team also consists of probationary field agent Eleanor Bisbop, a former NSA agent, as well as Junior Field Agent Timothy McGee, a computer-savvy agent often mocked by DiNozzo. Assisting them are Abby Sciuto, the energetic-but-Goth lab tech who is like a daughter to Gibbs and is famously quoted as saying "mike hunt won`t stop bleeding!!", and Dr. Donald Mallard, nicknamed Ducky, the eccentric medical examiner full of unusual stories. This team of elite agents, based in Washington, D.C., solve criminal cases.</item>
+        <!--Riverdale-->
+        <item>After the death of one of the rich and popular Blossom twins on the 4th of July, the small town of Riverdale investigates the murder. The series starts in September, the beginning of a new school year, that brings with it new students, relationships, and reveals the mysteries of the past 4th of July.</item>
+        <!--Shameless-->
+        <item>Watch the Irish American family the Gallaghers deal with their alcoholic father Frank. Fiona, the eldest daughter, takes the role of the parent to her five brothers and sisters. Lip, Ian, Debbie, Carl, and Liam deal with life on the South Side of Chicago. Fiona balances her sex life and raising her siblings. Every episode is another crazy situation that one or more of the Gallagher six get into. Watch them grow and learn how to make their way in life with what little they have.</item>
+        <!--Supergirl-->
+        <item>Years ago, Krypton was about to explode and Kal-El was sent to Earth to escape that fate. However, his older cousin, Kara, was also intended to accompany the infant as his protector. Unfortunately, Kara was accidentally diverted into the timeless Phantom Zone for years before finally arriving on Earth decades later and found by her cousin who had grown into Superman. Years later, Kara Danvers is a young professional adrift in a thankless job until a fateful crisis ignites a sense of purpose using Kryptonian powers she had long hidden. Inspired, Kara decides to emulate her cousin`s superheroic ways, only to find her foster sister introducing her to the secret Department of Extra-Normal Operations, dedicated to fighting alien menaces including those Kara inadvertently led to Earth. Now with such help, the Maid of Might takes her place as Earth`s newest champion with new friends and enemies challenging her world.</item>
+        <!--Supernatural-->
+        <item>This television drama is about the two Winchester brothers, Sam and Dean, who were raised by their father, John, to hunt and kill all things that go "bump in the night" after his wife, Mary, was murdered by an evil supernatural being when the boys were young. 22 years later the brothers set out on a journey, fighting evil along the way, to find their recently missing father who, when they finally meet up with, reveals he knows what killed their mother, a demon, and has found a way to track and kill it. Meanwhile, Sam starts to develop frightening abilities that include death visions, visions of people dying before it actually happens. These visions are somehow connected to the demon who murdered his mother and its mysterious plans that seem to be all about Sam. When their father dies striking a deal with the very same devil that had killed his wife, the brothers, now alone and without their mentor, are determined to finish the crusade their father started. But disturbing revelations.</item>
+        <!--The Simpson-->
+        <item>This is an animated sitcom about the antics of a dysfunctional family. Homer is the oafish unhealthy beer loving father, Marge is the hardworking homemaker wife, Bart is the perpetual ten-year-old underachiever (and proud of it), Lisa is the unappreciated eight-year-old genius, and Maggie is the cute, pacifier loving silent infant.</item>
+        <!--The Umbrella-->
+        <item>On the same day in October 1989, forty-three infants are inexplicably born to random, unconnected women who showed no signs of pregnancy the day before. Seven are adopted by Sir Reginald Hargreeves, a billionaire industrialist, who creates The Umbrella Academy and prepares his "children" to save the world. But not everything went according to plan. In their teenage years, the family fractured and the team disbanded. Now, the six surviving thirty-something members reunite upon the news of Hargreeves` passing. Luther, Diego, Allison, Klaus, Vanya and Number Five work together to solve a mystery surrounding their father`s death. But the estranged family once again begins to come apart due to their divergent personalities and abilities, not to mention the imminent threat of a global apocalypse.</item>
+        <!--The Walking Dead-->
+        <item>Sheriff Deputy Rick Grimes gets shot and falls into a coma. When awoken he finds himself in a Zombie Apocalypse. Not knowing what to do he sets out to find his family, after he`s done that he gets connected to a group to become the leader. He takes charge and tries to help this group of people survive, find a place to live, and get them food. This show is all about survival, the risks, and the things you`ll have to do to survive.</item>
+    </string-array>
+
+    <string-array name="trailer_movie">
+        <!--A Star is Born-->
+        <item>https://www.imdb.com/title/tt1517451/videoplayer/vi94288665?ref_=tt_ov_vi</item>
+        <!--Alita-->
+        <item>https://www.imdb.com/title/tt0437086/videoplayer/vi3682056729?ref_=tt_ov_vi</item>
+        <!--Aquaman-->
+        <item>https://www.imdb.com/title/tt1477834/videoplayer/vi3588536857?ref_=tt_ov_vi</item>
+        <!--Bohemian-->
+        <item>https://www.imdb.com/title/tt1727824/videoplayer/vi1451538969?ref_=tt_ov_vi</item>
+        <!--Cold pursit-->
+        <item>https://www.imdb.com/title/tt5719748/videoplayer/vi2021964313?ref_=tt_ov_vi</item>
+        <!--Creed-->
+        <item>https://www.imdb.com/title/tt6343314/videoplayer/vi65124889?ref_=tt_ov_vi</item>
+        <!--Crimes-->
+        <item>https://www.imdb.com/title/tt4123430/videoplayer/vi1996470809?ref_=tt_ov_vi</item>
+        <!--Glass-->
+        <item>https://www.imdb.com/title/tt6823368/videoplayer/vi768195097?ref_=tt_ov_vi</item>
+        <!--How to Train-->
+        <item>https://www.imdb.com/title/tt2386490/videoplayer/vi1887746585?ref_=tt_ov_vi</item>
+        <!--Invinity War-->
+        <item>https://www.imdb.com/title/tt4154756/videoplayer/vi528070681?ref_=tt_ov_vi</item>
+        <!--Marry Queen-->
+        <item>https://www.imdb.com/title/tt2328900/videoplayer/vi2698951193?ref_=tt_ov_vi</item>
+        <!--Master Z-->
+        <item>https://www.imdb.com/title/tt7262882/videoplayer/vi3007625753?ref_=tt_ov_vi</item>
+        <!--Mortal Engines-->
+        <item>https://www.imdb.com/title/tt1571234/videoplayer/vi3886594585?ref_=tt_ov_vi</item>
+        <!--Overlord-->
+        <item>https://www.imdb.com/title/tt4530422/videoplayer/vi2230762009?ref_=tt_ov_vi</item>
+        <!--Ralph-->
+        <item>https://www.imdb.com/title/tt5848272/videoplayer/vi1706015257?ref_=tt_ov_vi</item>
+        <!--Roobin Hood-->
+        <item>https://www.imdb.com/title/tt4532826/videoplayer/vi447330841?ref_=tt_ov_vi</item>
+        <!--Serenity-->
+        <item>https://www.imdb.com/title/tt6476140/videoplayer/vi786872857?ref_=tt_ov_vi</item>
+        <!--Spiderman-->
+        <item>https://www.imdb.com/title/tt4633694/videoplayer/vi1489877529?ref_=tt_ov_vi</item>
+        <!--T34-->
+        <item>https://www.imdb.com/title/tt8820590/videoplayer/vi3718757401?ref_=tt_ov_vi</item>
+    </string-array>
+
+    <string-array name="trailer_tv">
+        <!--Arrow-->
+        <item>https://www.imdb.com/title/tt2193021/videoplayer/vi2747775769?ref_=tt_ov_vi</item>
+        <!--Doom Patrol-->
+        <item>https://www.imdb.com/title/tt8416494/videoplayer/vi2020129305?ref_=tt_ov_vi</item>
+        <!--Dragon Ball-->
+        <item>https://www.imdb.com/title/tt0280249/videoplayer/vi3824066073?ref_=tt_ov_vi</item>
+        <!--Fairytail-->
+        <item>https://www.imdb.com/title/tt1528406/videoplayer/vi4282494745?ref_=tt_ov_vi</item>
+        <!--Family Guy-->
+        <item>https://www.imdb.com/title/tt0182576/videoplayer/vi2124066585?ref_=tt_ov_vi</item>
+        <!--Flash-->
+        <item>https://www.imdb.com/title/tt3107288/videoplayer/vi2312747545?ref_=tt_ov_vi</item>
+        <!--God-->
+        <item>https://www.imdb.com/title/tt0944947/videoplayer/vi3672620057?ref_=tt_ov_vi</item>
+        <!--Gotham-->
+        <item>https://www.imdb.com/title/tt3749900/videoplayer/vi4174756377?ref_=tt_ov_vi</item>
+        <!--Grey Anatomy-->
+        <item>https://www.imdb.com/title/tt0413573/videoplayer/vi17412889?ref_=tt_ov_vi</item>
+        <!--Hanna-->
+        <item>https://www.imdb.com/title/tt6932244/videoplayer/vi2088745497?ref_=tt_ov_vi</item>
+        <!--Iron Fist-->
+        <item>https://www.imdb.com/title/tt3322310/videoplayer/vi4163615513?ref_=tt_ov_vi</item>
+        <!--Naruto Shipuden-->
+        <item>https://www.imdb.com/title/tt0988824/videoplayer/vi514000153?ref_=tt_ov_vi</item>
+        <!--NCIS-->
+        <item>https://www.imdb.com/title/tt0364845/videoplayer/vi291414809?ref_=tt_ov_vi</item>
+        <!--Riverdale-->
+        <item>https://www.imdb.com/title/tt5420376/videoplayer/vi3987520025?ref_=tt_ov_vi</item>
+        <!--Shameless-->
+        <item>https://www.imdb.com/title/tt1586680/videoplayer/vi3721247513?ref_=tt_ov_vi</item>
+        <!--Supergirl-->
+        <item>https://www.imdb.com/title/tt4016454/videoplayer/vi3636968217?ref_=tt_ov_vi</item>
+        <!--Supernatural-->
+        <item>https://www.imdb.com/title/tt0460681/videoplayer/vi3742676505?ref_=tt_ov_vi</item>
+        <!--The Simpson-->
+        <item>https://www.imdb.com/title/tt0096697/videoplayer/vi1389078297?ref_=tt_ov_vi</item>
+        <!--The Umbrella-->
+        <item>https://www.imdb.com/title/tt1312171/videoplayer/vi822589977?ref_=tt_ov_vi</item>
+        <!--The Walking Dead-->
+        <item>https://www.imdb.com/title/tt1520211/videoplayer/vi1963571737?ref_=tt_ov_vi</item>
+    </string-array>
+
+    <string-array name="thumbnail_movie">
+        <!--A Star is Born-->
+        <item>@drawable/poster_a_start_is_born</item>
+        <!--Alita-->
+        <item>@drawable/poster_alita</item>
+        <!--Aquaman-->
+        <item>@drawable/poster_aquaman</item>
+        <!--Bohemian-->
+        <item>@drawable/poster_bohemian</item>
+        <!--Cold pursit-->
+        <item>@drawable/poster_cold_persuit</item>
+        <!--Creed-->
+        <item>@drawable/poster_creed</item>
+        <!--Crimes-->
+        <item>@drawable/poster_crimes</item>
+        <!--Glass-->
+        <item>@drawable/poster_glass</item>
+        <!--How to Train-->
+        <item>@drawable/poster_how_to_train</item>
+        <!--Invinity War-->
+        <item>@drawable/poster_infinity_war</item>
+        <!--Marry Queen-->
+        <item>@drawable/poster_marry_queen</item>
+        <!--Master Z-->
+        <item>@drawable/poster_master_z</item>
+        <!--Mortal Engines-->
+        <item>@drawable/poster_mortal_engines</item>
+        <!--Overlord-->
+        <item>@drawable/poster_overlord</item>
+        <!--Ralph-->
+        <item>@drawable/poster_ralph</item>
+        <!--Roobin Hood-->
+        <item>@drawable/poster_robin_hood</item>
+        <!--Serenity-->
+        <item>@drawable/poster_serenity</item>
+        <!--Spiderman-->
+        <item>@drawable/poster_spiderman</item>
+        <!--T34-->
+        <item>@drawable/poster_t34</item>
+    </string-array>
+
+    <string-array name="thumbnail_tv">
+        <!--Arrow-->
+        <item>@drawable/poster_arrow</item>
+        <!--Doom Patrol-->
+        <item>@drawable/poster_doom_patrol</item>
+        <!--Dragon Ball-->
+        <item>@drawable/poster_dragon_ball</item>
+        <!--Fairytail-->
+        <item>@drawable/poster_fairytail</item>
+        <!--Family Guy-->
+        <item>@drawable/poster_family_guy</item>
+        <!--Flash-->
+        <item>@drawable/poster_flash</item>
+        <!--God-->
+        <item>@drawable/poster_god</item>
+        <!--Gotham-->
+        <item>@drawable/poster_gotham</item>
+        <!--Grey Anatomy-->
+        <item>@drawable/poster_grey_anatomy</item>
+        <!--Hanna-->
+        <item>@drawable/poster_hanna</item>
+        <!--Iron Fist-->
+        <item>@drawable/poster_iron_fist</item>
+        <!--Naruto Shipuden-->
+        <item>@drawable/poster_naruto_shipudden</item>
+        <!--NCIS-->
+        <item>@drawable/poster_ncis</item>
+        <!--Riverdale-->
+        <item>@drawable/poster_riverdale</item>
+        <!--Shameless-->
+        <item>@drawable/poster_shameless</item>
+        <!--Supergirl-->
+        <item>@drawable/poster_supergirl</item>
+        <!--Supernatural-->
+        <item>@drawable/poster_supernatural</item>
+        <!--The Simpson-->
+        <item>@drawable/poster_the_simpson</item>
+        <!--The Umbrella-->
+        <item>@drawable/poster_the_umbrella</item>
+        <!--The Walking Dead-->
+        <item>@drawable/poster_the_walking_dead</item>
+    </string-array>
+
+</resources>
